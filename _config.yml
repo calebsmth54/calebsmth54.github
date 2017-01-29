@@ -1,4 +1,6 @@
 theme: jekyll-theme-midnight
 title: Caleb Smith
-description: [A short description of your site's purpose]
+description: Programmer and designer
 show_downloads: false
+permalink: pretty
+timezone: America/Los_Angeles
