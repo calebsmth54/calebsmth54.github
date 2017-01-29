@@ -4,3 +4,13 @@ description: Programmer and designer
 show_downloads: false
 permalink: pretty
 timezone: America/Los_Angeles
+
+navigation:
+  - title: Home
+    url: /index.md
+  - title: Projects
+    url: /projects.html
+  - title: Resume
+    url: /resume.html
+  - title: Contact
+    url: /contact.html
