@@ -2,3 +2,8 @@
 ---
 
 @import "{{ site.theme }}";
+
+li {
+  background-color: red;
+  margin-right: 1%;
+}
