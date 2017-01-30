@@ -3,8 +3,6 @@
 
 @import "{{ site.theme }}";
 
-#header li a {
-  background-color: red;
-  //border-color: red;
-  margin-right: 1%;
+.header_button {
+  background-color: #252525;
 }
