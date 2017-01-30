@@ -4,5 +4,6 @@
 @import "{{ site.theme }}";
 
 .header_button {
-  background-color: #252525;
+  //background-color: #252525 !important;
+  padding-right: 10px !important;
 }
