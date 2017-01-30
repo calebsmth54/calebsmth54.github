@@ -1,13 +1,11 @@
 # Contact Me
 
-### Time Zone
-Pacific Standard Time
+**Time Zone:** Pacific Standard Time
 
-### Phone
-**Mobile:** +1 (928) 420-3989
+**Email:** [calebsmth54@gmail.com](mailto:calebsmth54@gmail.com)
 
-### Skype
-calebsmth54
+**Mobile Phone:** +1 (928) 420-3989
 
-### Linkedin
-[Linkedin](https://www.linkedin.com/in/calebsmth54/)
+**Skype:** calebsmth54
+
+**Linkedin**[/in/calebsmth54](https://www.linkedin.com/in/calebsmth54/)

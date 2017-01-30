@@ -19,7 +19,12 @@
   <body>
       <div id="header">
         <nav>
-
+          <ul>
+            <li><a>Home</a></li>
+            <li><a>Projects</a></li>
+            <li><a>Resume</a></li>
+            <li><a>Contact</a></li>
+          </ul>
         </nav>
       </div><!-- end header -->
 
@@ -33,6 +38,10 @@
 
         {{ content }}
 
+        <div>
+          <span class="credits left">Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></span>
+          <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></span>
+        </div>
       </section>
 
     </div>
@@ -49,9 +58,5 @@
         } catch(err) {}
       </script>
     {% endif %}
-  <div>
-    <span class="credits left">Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></span>
-    <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></span>
-  </div>
   </body>
 </html>
