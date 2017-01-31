@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Resume
 
 Resume Download Link: [pdf](/assets/calebsmith-resume.pdf)
 
@@ -7,45 +7,70 @@ A Junior Programmer that combines game development experience with a formal film
 
 ### Skills
 **Languages:** Strong Knowledge of C++,  Java,  Javascript
+
 **Programming:** Knowledge of Game Architecture,  Design Patterns,  Algorithms and Data Structures
+
 **Tools:** Microsoft Visual Studio,  Unreal Editor,  Perforce,  Jira
 
 ### Work Experience
 **Waden Kane Studios**
+
 _Game Programmer_
+
 May 2016 to Present
-Prototype, implement and test core C++ gameplay code
-Collaborate with designers on design and create systems to be extended in Blueprints
-Setup and manage Perforce repository
+
+- Prototype, implement and test core C++ gameplay code
+- Collaborate with designers on design and create systems to be extended in Blueprints
+- Setup and manage Perforce repository
 
 **SCD (Web Media Company)**
+
 _Contract Web Designer/Developer_
+
 August 2016 to Present
-Develop easy to use content pipeline for future developers
-Maintain website template across multiple platforms
+
+- Develop easy to use content pipeline for future developers
+- Maintain website template across multiple platforms
 
 **Student Media Creative Services**
+
 _Media Production Associate_
+
 June 2014 to January 2016
-Led team on completion of large client projects and delivered them ahead of deadline
-Regularly called on to teach new hires and assist on overdue projects
+
+- Led team on completion of large client projects and delivered them ahead of deadline
+- Regularly called on to teach new hires and assist on overdue projects
 
 ### Other Development Experience
+
 **Unreal Engine:** Work-in-progress turn-based horror game.
+
 **Phaser:** Prototyped Breakout clone and tap-based platformer.
+
 **SDL/C++:** Created classic game clones using custom engine.
+
 **Source Engine:** Developed maps and modified source code.
+
 **Pen and Paper:** Familiarity with several rule systems. Authored and ran several Cyberpunk game sessions.
 
 ### Education
+
 **Arizona State University**
+
 Tempe, Arizona US
+
 _Film and Media Production (Incomplete)_
+
 2012 to 2015
+
 _Computer Science (Incomplete)_
+
 2015 to 2016
 
 ### Favorite Games/Misc Hobbies
+
 **Games:** Half-Life 2,  The Witcher 3,  Vampire: The Masquerade,  Dota 2,  Crusader Kings 2,  Soma
+
 **Tabletop:** Betrayal at House on the Hill,  Settlers of Catan,  Eldritch Horror,  Netrunner,  Chess
+
 **Filmmaking:** Screenwriting and Film production
