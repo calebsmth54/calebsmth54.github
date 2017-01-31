@@ -1,37 +1,51 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/calebsmth54/calebsmth54.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Resume Download Link: [pdf](/assets/calebsmith-resume.pdf)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### profile
+A Junior Programmer that combines game development experience with a formal film education, looking to create an unforgettable cinematic experience for players. Whether collaborating with or leading a team, proud to be a source of knowledge for colleagues. Always pushing a project's quality past its expected potential.
 
-### Markdown
+### Skills
+**Languages:** Strong Knowledge of C++,  Java,  Javascript
+**Programming:** Knowledge of Game Architecture,  Design Patterns,  Algorithms and Data Structures
+**Tools:** Microsoft Visual Studio,  Unreal Editor,  Perforce,  Jira
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Work Experience
+**Waden Kane Studios**
+_Game Programmer_
+May 2016 to Present
+Prototype, implement and test core C++ gameplay code
+Collaborate with designers on design and create systems to be extended in Blueprints
+Setup and manage Perforce repository
 
-```markdown
-Syntax highlighted code block
+**SCD (Web Media Company)**
+_Contract Web Designer/Developer_
+August 2016 to Present
+Develop easy to use content pipeline for future developers
+Maintain website template across multiple platforms
 
-# Header 1
-## Header 2
-### Header 3
+**Student Media Creative Services**
+_Media Production Associate_
+June 2014 to January 2016
+Led team on completion of large client projects and delivered them ahead of deadline
+Regularly called on to teach new hires and assist on overdue projects
 
-- Bulleted
-- List
+### Other Development Experience
+**Unreal Engine:** Work-in-progress turn-based horror game.
+**Phaser:** Prototyped Breakout clone and tap-based platformer.
+**SDL/C++:** Created classic game clones using custom engine.
+**Source Engine:** Developed maps and modified source code.
+**Pen and Paper:** Familiarity with several rule systems. Authored and ran several Cyberpunk game sessions.
 
-1. Numbered
-2. List
+### Education
+**Arizona State University**
+Tempe, Arizona US
+_Film and Media Production (Incomplete)_
+2012 to 2015
+_Computer Science (Incomplete)_
+2015 to 2016
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/calebsmth54/calebsmth54.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Favorite Games/Misc Hobbies
+**Games:** Half-Life 2,  The Witcher 3,  Vampire: The Masquerade,  Dota 2,  Crusader Kings 2,  Soma
+**Tabletop:** Betrayal at House on the Hill,  Settlers of Catan,  Eldritch Horror,  Netrunner,  Chess
+**Filmmaking:** Screenwriting and Film production
