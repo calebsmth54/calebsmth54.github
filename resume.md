@@ -2,7 +2,7 @@
 Resume Download Link: [pdf](/assets/calebsmith-resume.pdf)
 <br>
 
-## profile
+## Profile
 A Junior Programmer that combines game development experience with a formal film education and is looking to create unforgettable cinematic experiences for players. Whether collaborating with or leading a team, proud to be a source of knowledge for colleagues.
 
 ## Skills
