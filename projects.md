@@ -22,7 +22,9 @@ A fast paced, 2D side scrolling shooter inspired by _Contra_, _Ghost and Goblins
 - *Project Management:* Setup and continually managed Perforce repository and assisted team with use of version control. Helped team members make transition from Unity development to Unreal development. Took on responsibility of implementing all of the major gameplay features after Lead Programmer left project. Assisted with design of the game as well as work with designers on exposing core C++ features to Blueprint Scripting System. Regularly refactor code in order to achieve readability and optimization.
 
 ## Haunted House Turn Based Game (C++/Blueprint Scripting/Unreal Editor) Early WIP
+
 ### A side project put on hold to focus on Lead N Brimstone
+
 ![Haunted House Turn Based Game](/assets/img/HHTBSPreview.png)
 
 ### Game Description
@@ -33,7 +35,9 @@ A unique take on the horror movie genre inspired by the film _Cabin in the Woods
 - *Code:* Implemented a third person camera system and selectable base character type.
 
 ## Brick Breakers and Phaser Prototype (Javascript/Phaser/HTML5)
+
 ### October 2015 to May 2016
+
 ![Phaser Prototypes](/assets/img/PhaserPreview.png)
 
 ### Game Description
@@ -44,7 +48,9 @@ Two simple projects I developed in order to learn Javascript and gain some mobil
 - *Design:* Tested concept of user flinging input that launched the character across screen. This seemed like a unique alternative to having a virtual d-pad that most 2D platformers on mobile use.
 
 ## Classic Game Clones (C++/SDL/Engine Development)
+
 ### Pre 2010
+
 ![SDL Games](/assets/img/SDLPreview.png)
 
 ### Game Description
@@ -55,7 +61,9 @@ At an early age, I taught myself C++ by developing classic game clones of _Pong_
 - *Design:* Although these games were straight copies of their original counterparts, I prided myself on almost perfectly mimicking the AI behavior in _Ms Pacman_.
 
 ## Source Engine Modding (C++/Level Design & Scripting/Hammer Editor)
+
 ### Pre 2010
+
 ![Source Modding](/assets/img/SourcePreview.png)
 
 ### Game Description
