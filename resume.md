@@ -1,30 +1,31 @@
 # Resume
 Resume Download Link: [pdf](/assets/calebsmith-resume.pdf)
 <br>
+<br>
 
 ## Profile
 A Junior Programmer that combines game development experience with a formal film education and is looking to create unforgettable cinematic experiences for players. Whether collaborating with or leading a team, proud to be a source of knowledge for colleagues.
 
 ## Skills
-**Languages:**  Strong Knowledge of C++,   Java,   Javascript,   C# familiarity,  
+**Languages:**  Strong Knowledge of C++,   Java,   Javascript,   C# familiarity
 
 **Programming:**  Knowledge of Game Architecture,   Design Patterns,   Algorithms and Data Structures
 
-**Tools:**  Microsoft Visual Studio,   Unreal Editor,   Perforce,   Jira,   Hammer Editor,  
+**Tools:**  Microsoft Visual Studio,   Unreal Editor,   Perforce,   Jira,   Hammer Editor  
 
 ## Work Experience
-**Waden Kane Studios**   _Game Programmer_  **(May 2016 to Present)**
+**Waden Kane Studios**   _(Game Programmer)_  **May 2016 to Present**
 
 - Prototype, implement and test core C++ gameplay code
 - Collaborate with designers on design and create systems to be extended in Blueprints
 - Setup and manage Perforce repository
 
-**SCD (Web Media Company)**   _Contract Web Designer/Developer_   **(August 2016 to Present)**
+**SCD**   _(Contract Web Designer/Developer)_   **August 2016 to Present**
 
 - Develop easy to use content pipeline for future developers
 - Maintain website template across multiple platforms
 
-**Student Media Creative Services**   _Media Production Associate_   **(June 2014 to January 2016)**
+**Student Media Creative Services**   _(Media Production Associate)_   **June 2014 to January 2016**
 
 - Led team on completion of large client projects and delivered them ahead of deadline
 - Regularly called on to teach new hires and assist on overdue projects
