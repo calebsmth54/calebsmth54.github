@@ -1,5 +1,6 @@
-# Work Experience and Projects
-
+---
+title: Work Experience and Projects
+---
 
 ## Lead N Brimstone (C++/Blueprint Scripting/Unreal Editor) ETA Summer 2017
 
