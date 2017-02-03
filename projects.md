@@ -6,7 +6,6 @@
 
 Site: [Lead N Brimstone](http://www.wadenkanestudios.com/#!projects/leadnbrimestone.html)
 
-
 ### Game Description
 A fast paced, 2D side scrolling shooter inspired by _Contra_, _Ghost and Goblins_ and _Doom_. Players take control of a knight fighting off endless waves of increasingly difficult demonic creatures. For this project we want to capture the magic of classic arcade and NES games: Easy to learn, difficult to master. We plan on having a gameplay loop that is brutally difficult, but never punishes with arbitrary failure states and empowers them to master their skills in order to beat that next foe.
 
@@ -38,6 +37,7 @@ A unique take on the horror movie genre inspired by the film _Cabin in the Woods
 ![Phaser Prototypes](/assets/img/PhaserPreview.png)
 
 [Touch Example](/phaser-games/PixiGame/pixigame.html)
+
 [Brick Breaker](/phaser-games/BrickBreaker/brickbreaker.html)
 
 ### Game Description
