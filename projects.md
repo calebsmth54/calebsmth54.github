@@ -37,9 +37,8 @@ A unique take on the horror movie genre inspired by the film _Cabin in the Woods
 
 ![Phaser Prototypes](/assets/img/PhaserPreview.png)
 
-[Touch Example](/phaser-games/pixigame/pixigame.html)
-
-[Brick Breaker](/phaser-games/brickbreaker/brickbreaker.html)
+[Touch Example](/phaser-games/PixiGame/pixigame.html)
+[Brick Breaker](/phaser-games/BrickBreaker/brickbreaker.html)
 
 ### Game Description
 Two simple projects I developed in order to learn Javascript and gain some mobile game development experience.
