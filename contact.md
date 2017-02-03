@@ -1,5 +1,3 @@
-# Contact Me
-
 **Time Zone:** Pacific Standard Time
 
 **Email:** [calebsmth54@gmail.com](mailto:calebsmth54@gmail.com)

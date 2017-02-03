@@ -1,7 +1,3 @@
----
-title: Resume
----
-
 Resume Download Link: [pdf](/assets/calebsmith-resume.pdf)
 
 ## Profile

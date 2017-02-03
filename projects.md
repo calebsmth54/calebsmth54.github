@@ -1,7 +1,3 @@
----
-title: Work Experience and Projects
----
-
 ## Lead N Brimstone (C++/Blueprint Scripting/Unreal Editor) ETA Summer 2017
 
 ### May 2016 to Present
@@ -40,6 +36,10 @@ A unique take on the horror movie genre inspired by the film _Cabin in the Woods
 ### October 2015 to May 2016
 
 ![Phaser Prototypes](/assets/img/PhaserPreview.png)
+
+[Touch Example](/phaser-games/pixigame/pixigame.html)
+
+[Brick Breaker](/phaser-games/brickbreaker/brickbreaker.html)
 
 ### Game Description
 Two simple projects I developed in order to learn Javascript and gain some mobile game development experience.
