@@ -66,6 +66,8 @@ At an early age, I taught myself C++ by developing classic game clones of _Pong_
 
 ![Source Modding](/assets/img/SourcePreview.png)
 
+_Image is a stock photo of hammer and not representative of work I did_
+
 ### Game Description
 My fascination with the immersive world of _Half-Life_ inspired me to develop content of my own. While many of the projects I worked on never saw a proper release, the experience laid the foundation for my love of game development, honed my development skills and gave me valuable working experience with others on creative projects.
 

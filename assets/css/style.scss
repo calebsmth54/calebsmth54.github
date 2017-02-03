@@ -10,4 +10,14 @@
 
 nav {
   background-color: transparent !important;
+
+  li{
+    a{
+      background-color: red !important;
+    }
+
+    a:hover{
+      background-color: blue !important;
+    }
+  }
 }
