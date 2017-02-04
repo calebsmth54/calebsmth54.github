@@ -9,7 +9,9 @@ A Junior Programmer that combines game development experience with a formal film
 
 **Programming:**  Knowledge of Game Architecture,   Design Patterns,   Algorithms and Data Structures
 
-**Tools:**  Microsoft Visual Studio,   Unreal Editor,   Perforce,   Jira,   Hammer Editor  
+**Tools:**  Microsoft Visual Studio,   Unreal Editor,   Perforce,   Jira,   Hammer Editor
+
+**Misc/Other:**  Web Development,   Film Production,   Editing,   Level Development
 
 ## Work Experience
 **Waden Kane Studios**   _(Game Programmer)_  **May 2016 to Present**

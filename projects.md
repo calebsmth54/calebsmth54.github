@@ -15,9 +15,9 @@ A fast paced, 2D side scrolling shooter inspired by _Contra_, _Ghost and Goblins
 
 - *AI:* Developed base AI functions that would lay the ground work for every behavior of enemies in game. Utilized Unreal's Behavior Tree System so that an infinite number of AI behaviors could be created easily and tested immediately in the editor.
 
-- *Project Management:* Setup and continually managed Perforce repository and assisted team with use of version control. Helped team members make transition from Unity development to Unreal development. Took on responsibility of implementing all of the major gameplay features after Lead Programmer left project. Assisted with design of the game as well as work with designers on exposing core C++ features to Blueprint Scripting System. Regularly refactor code in order to achieve readability and optimization.
+- *Project Management:* Setup and continue to manage Perforce repository and assisted team with use of version control. Helped team members make transition from Unity development to Unreal development. Took on responsibility of implementing all of the major gameplay features after Lead Programmer left project. Assisted with design of the game as well as work with designers on exposing core C++ features to Blueprint Scripting System. Regularly refactor code in order to achieve readability and ease of use.
 
-## Haunted House Turn Based Game (C++/Blueprint Scripting/Unreal Editor) Early WIP
+## Horror Turn Based Game (C++/Blueprint Scripting/Unreal Editor) Early WIP
 
 ### A side project put on hold to focus on Lead N Brimstone
 
@@ -30,49 +30,16 @@ A unique take on the horror movie genre inspired by the film _Cabin in the Woods
 
 - *Code:* Implemented a third person camera system and selectable base character type.
 
-## Brick Breakers and Phaser Prototype (Javascript/Phaser/HTML5)
+## Prior Experience (pre-2015)
 
-### October 2015 to May 2016
-
-![Phaser Prototypes](/assets/img/PhaserPreview.png)
+- *Phaser Development (Javascript/Phaser/HTML5):* Two simple projects I developed in order to learn JavaScript and learn about mobile game development.
 
 [Touch Example](/phaser-games/PixiGame/pixigame.html)
 
 [Brick Breaker](/phaser-games/BrickBreaker/brickbreaker.html)
 
-### Game Description
-Two simple projects I developed in order to learn Javascript and gain some mobile game development experience.
+- *Classic Game Clones (C++/SDL/Engine Development):* Developed game clones of _Pong_, _Tetris_ and _Pac-Man_ which established strong programming foundations and understanding of how game engines work on a basic level.
 
-- *Technical:* Worked with a third-party framework in order to develop simple games. Published on Github in order to have friends test prototype on their various devices (mobile and desktop).
+- *Source Engine Modding (C++/Level Design & Scripting/Hammer Editor):* Developed numerous maps focusing on geometry building, atmosphere setting and entity scripting. Made minor code modifications to weapon, character and game mode classes. Received and gave constructive criticism to fellow modders.
 
-- *Design:* Tested concept of user flinging input that launched the character across screen. This seemed like a unique alternative to having a virtual d-pad that most 2D platformers on mobile use.
-
-## Classic Game Clones (C++/SDL/Engine Development)
-
-### Pre 2010
-
-![SDL Games](/assets/img/SDLPreview.png)
-
-### Game Description
-At an early age, I taught myself C++ by developing classic game clones of _Pong_, _Tetris_ and _Pacman_. These games were foundational in teaching me Object-Oriented Programming, Game Design Patterns and how Game Engines worked at a very basic level. When I picked up game development again after a 5-year hiatus, I was pleasantly surprised to find that many of these concepts stuck with me.
-
-- *Code:* Developed game engines from the ground up using SDL, and focusing on reuseable systems that could be used by future projects. Created a sprite resource management system, frame independent game/render loop, and an entity system that contained basic movement properties and collision detection.
-
-- *Design:* Although these games were straight copies of their original counterparts, I prided myself on almost perfectly mimicking the AI behavior in _Ms Pacman_.
-
-## Source Engine Modding (C++/Level Design & Scripting/Hammer Editor)
-
-### Pre 2010
-
-![Source Modding](/assets/img/SourcePreview.png)
-
-_Image is a stock photo of hammer and not representative of work I did_
-
-### Game Description
-My fascination with the immersive world of _Half-Life_ inspired me to develop content of my own. While many of the projects I worked on never saw a proper release, the experience laid the foundation for my love of game development, honed my development skills and gave me valuable working experience with others on creative projects.
-
-- *Code:* Made minor tweaks to code that modified properties of weapons, enemies and game modes. Mostly this is where I gained a foundation in how a professional engine was developed and how all of the complex systems interact with each other.
-
-- *Level Development:* Developed countless levels that focused on mood setting, level scripts that created complex world interaction and multiplayer map design.
-
-- *Testing and Creative Collaboration:* Shared levels with other members of the _Interlopers_ mapping community and took constructive criticism.
+*View some of my code on Samples on (Github)[github.com/calebsmth54]*
