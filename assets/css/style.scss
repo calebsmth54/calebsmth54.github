@@ -11,7 +11,7 @@
 #header {
   margin: 2px 0 2px, 0 !important;
   float: right !important;
-  height: 100px !important;
+  height: 200px !important;
 
   nav {
       background-color: transparent !important;
@@ -31,11 +31,12 @@
 
 @media (max-width: 600px)
 {
-  nav{
+  #header {
 
-    height: 300px;
+    height: 400px;
 
     li{
+      float:left;
       a{
           width: 25% !important;
       }
@@ -44,7 +45,8 @@
 }
 
   #nameblock {
-    margin-left: 10%;
+    margin: 0;
+    position:fixed;
     //position: absolute;
 
     width: 25%;
