@@ -24,9 +24,20 @@ nav {
     }
   }
 
+@media (max-width: 600px)
+{
+  nav{
+    li{
+      a{
+          width: 25% !important;
+      }
+    }
+  }
+}
+
   #nameblock {
     margin-left: 10%;
-    display:block;
+    position: absolute;
 
     width: 25%;
 
