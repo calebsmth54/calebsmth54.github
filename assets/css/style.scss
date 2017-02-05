@@ -8,9 +8,15 @@
 
 }
 
+@media print, screen and (max-width: 480px) {
+  #header .wrapper {
+    max-width: 601px !important;
+  }
+
+
 #header {
   margin: 2px 0 2px, 0 !important;
-  float: right !important;
+  //float: right !important;
   height: 170px !important;
   min-width: 601px !important;
 
@@ -20,7 +26,8 @@
       margin: 0 !important;
       margin-top: 5px !important;
       margin-right: 5px !important;
-      float:right !important;
+      float:left !important;
+      position:relative !important;
   }
 
   li{
@@ -38,7 +45,7 @@
 
   #nameblock {
     margin: 0;
-    position: fixed;
+    position: relative;
 
     width: 25%;
 
