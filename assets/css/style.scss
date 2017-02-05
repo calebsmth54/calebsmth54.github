@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 @media (max-width: 480px) {
-  .nav {display: block !important;}
+  #mynav {display: block !important;}
 }
 
 #header {
