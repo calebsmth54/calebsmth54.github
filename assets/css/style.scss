@@ -1,8 +1,6 @@
 ---
 ---
 
-@import "{{ site.theme }}";
-
 @media print, screen and (max-width: 480px) {
   #header
   .nav {
@@ -10,6 +8,8 @@
   }
 }
 
+
+@import "{{ site.theme }}";
 
 #header {
   margin: 2px 0 2px 0 !important;
