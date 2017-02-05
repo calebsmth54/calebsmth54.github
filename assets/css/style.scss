@@ -9,10 +9,13 @@
 }
 
 #header {
-  background-color: transparent !important;
   margin: 2px 0 2px, 0 !important;
   float: right !important;
-  height: 200px !important;
+  height: 100px !important;
+
+  nav {
+      background-color: transparent !important;
+  }
 
   li{
     position: relative !important;
