@@ -12,6 +12,7 @@ nav {
   background-color: transparent !important;
   margin: 2px 0 2px, 0 !important;
   float: right !important;
+  height: 200px;
 
   li{
     position: relative !important;
@@ -28,6 +29,9 @@ nav {
 @media (max-width: 600px)
 {
   nav{
+
+    height: 300px;
+
     li{
       a{
           width: 25% !important;
@@ -38,7 +42,7 @@ nav {
 
   #nameblock {
     margin-left: 10%;
-    position: absolute;
+    //position: absolute;
 
     width: 25%;
 
