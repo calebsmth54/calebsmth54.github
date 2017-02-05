@@ -8,12 +8,6 @@
 
 }
 
-@media print, screen and (max-width: 480px) {
-  #header .wrapper {
-    max-width: 601px !important;
-  }
-
-
 #header {
   margin: 2px 0 2px, 0 !important;
   //float: right !important;
@@ -23,11 +17,11 @@
   nav {
       background-color: transparent !important;
       width: 400px !important;
+      min-width: 400px !important;
       margin: 0 !important;
       margin-top: 5px !important;
       margin-right: 5px !important;
       float:left !important;
-      position:relative !important;
   }
 
   li{
@@ -45,7 +39,7 @@
 
   #nameblock {
     margin: 0;
-    position: relative;
+    float:left !important;
 
     width: 25%;
 
