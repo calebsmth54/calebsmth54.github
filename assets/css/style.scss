@@ -1,15 +1,14 @@
 ---
 ---
 
+@import "{{ site.theme }}";
+
 @media print, screen and (max-width: 480px) {
   #header
   .nav {
     display: block !important;
   }
 }
-
-
-@import "{{ site.theme }}";
 
 #header {
   margin: 2px 0 2px 0 !important;
