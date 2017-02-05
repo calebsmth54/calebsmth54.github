@@ -20,8 +20,8 @@
       width: 400px !important;
       min-width: 400px !important;
       margin: 0 !important;
-      margin-top: 5px !important;
-      margin-right: 5px !important;
+      margin-top: auto !important;
+      margin-right: auto !important;
       float:left !important;
   }
 
@@ -45,8 +45,8 @@
     width: 100%;
 
     .super {
-      font-weight: bold;
-      font-size: 36px;
+      font-weight: bold !important;
+      font-size: 36px !important;
     }
 
   }
