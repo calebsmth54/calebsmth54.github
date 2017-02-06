@@ -21,7 +21,7 @@ p {
 #header {
   //margin: 2px 0 2px 0 !important;
   //float: right !important;
-  height: 150px !important;
+  height: 120px !important;
   min-width: 601px !important;
 }
 
@@ -50,7 +50,8 @@ p {
   }
 
   #nameblock {
-    margin: 0;
+    margin-left: 4px !important;
+    margin-top: 4px !important;
     float:left !important;
 
     p {

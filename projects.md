@@ -14,19 +14,23 @@ Site: [Lead N Brimstone](http://www.wadenkanestudios.com/#!projects/leadnbrimest
 A fast paced, 2D side scrolling shooter inspired by _Contra_, _Ghost 'n Goblins_ and _Doom_. Players take control of a knight fighting off endless waves of increasingly difficult demonic creatures. For this project we want to capture the magic of classic arcade and NES games: Easy to learn, difficult to master. We plan on having a gameplay loop that is brutally difficult, but never punishes the player with arbitrary failure states and instead empowers them to master their skills in order to beat that next foe.
 
 *Weapon System:*
+
 - Designed, implemented and coded a weapon system that could support various weapon types (Trace, Projectile and Melee).
 - Used by both enemies and players for unique attacks.
 - Easily extended by designers in the Blueprints scripting system.
 
 *Characters:*
+
 - Developed a base character class that could support our wide range of character types.
 - Implemented animation state machines for characters.
 
 *AI:*
+
 - Developed base AI functions that would lay the ground work for every enemy behavior in game.
 - Utilized Unreal's Behavior Tree System so that large variation of AI behaviors could be created easily and tested immediately in the editor.
 
 *Project Management:*
+
 - Setup and continue to manage Perforce repository and assisted team with use of version control.
 - Helped team members make transition from Unity development to Unreal development.
 - Took on responsibility of implementing all of the major gameplay features after Lead Programmer left project.
