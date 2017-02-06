@@ -23,7 +23,7 @@ p {
   //float: right !important;
   overflow: hidden !important;
   width: 100% !important;
-  height: 120px !important;
+  height: 130px !important;
   min-width: 601px !important;
 }
 
@@ -34,8 +34,8 @@ p {
       margin: 0 !important;
       margin-top: 2px !important;
       margin-right: auto !important;
-      float:left !important;
-      padding-left: 50px !important;
+      margin-left: auto !important;
+      //padding-left: 50px !important;
   }
 
   li{
@@ -52,8 +52,8 @@ p {
   }
 
   #nameblock {
-    margin-left: 4px !important;
-    margin-top: 4px !important;
+    margin-left: 10px !important;
+    margin-top: 10px !important;
     float:left !important;
 
     p {
