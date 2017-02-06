@@ -1,6 +1,7 @@
 ---
 title: Projects and Experience
 ---
+
 ## Lead N Brimstone (C++/Blueprint Scripting/Unreal Editor) ETA Summer 2017
 
 ### May 2016 to Present
