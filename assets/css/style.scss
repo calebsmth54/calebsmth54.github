@@ -29,12 +29,13 @@ p {
 
   nav {
       background-color: transparent !important;
-      width: 400px !important;
+      width: 350px !important;
       min-width: 400px !important;
       margin: 0 !important;
-      margin-top: 2px !important;
-      margin-right: auto !important;
+      margin-top: 40% !important;
+      margin-right: 20px !important;
       margin-left: auto !important;
+      // float:right !important;
       //padding-left: 50px !important;
   }
 
@@ -55,6 +56,7 @@ p {
     margin-left: 10px !important;
     margin-top: 10px !important;
     float:left !important;
+    position: absolute !important;
 
     p {
       margin-bottom:2px !important;
@@ -63,12 +65,12 @@ p {
 
     .super {
       font-weight: bold !important;
-      font-size: 36px !important;
+      font-size: 32px !important;
     }
     .sub {
-      //font-weight:lighter !important;
+      color: #fffcf7 !important;
       font-style:italic !important;
-      font-size: 24px !important;
+      font-size: 20px !important;
     }
 
   }
