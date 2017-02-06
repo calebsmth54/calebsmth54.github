@@ -1,3 +1,6 @@
+---
+title: Resume
+---
 ## Resume Download
 [pdf](/assets/calebsmith-resume.pdf)
 
