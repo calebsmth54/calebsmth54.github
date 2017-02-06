@@ -21,7 +21,7 @@ p {
 #header {
   //margin: 2px 0 2px 0 !important;
   //float: right !important;
-  overflow: hidden !important;
+  display:table-row !important;
   width: 100% !important;
   height: 130px !important;
   min-width: 601px !important;
@@ -35,9 +35,7 @@ p {
       margin-top: 8% !important;
       margin-right: 20px !important;
       margin-left: auto !important;
-      position: static !important;
-      // float:right !important;
-      //padding-left: 50px !important;
+      display:table-cell;
   }
 
   li{
@@ -54,10 +52,11 @@ p {
   }
 
   #nameblock {
-    margin-left: 10px !important;
-    margin-top: 10px !important;
+    margin-left: 15px !important;
+    margin-top: 15px !important;
     float:left !important;
     position: absolute !important;
+    display:table-cell;
 
     p {
       margin-bottom:2px !important;
