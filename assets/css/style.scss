@@ -21,6 +21,8 @@ p {
 #header {
   //margin: 2px 0 2px 0 !important;
   //float: right !important;
+  overflow: hidden !important;
+  width: 100% !important;
   height: 120px !important;
   min-width: 601px !important;
 }
