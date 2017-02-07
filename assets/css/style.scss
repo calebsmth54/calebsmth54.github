@@ -19,22 +19,18 @@ p {
 
 
 #header {
-  //margin: 2px 0 2px 0 !important;
-  //float: right !important;
   display:block !important;
   width: 100% !important;
   height: 110px !important;
   min-width: 601px !important;
-  position: fixed !important;
+  overflow:hidden !important;
 
 
   nav {
       width: 400px !important;
       background-color: transparent !important;
-      margin: 0 !important;
-      margin-top: 60px !important;
-      margin-right: 40px !important;
-      float: right !important;
+      margin-left: 40px !important;
+
   }
 
   li{
