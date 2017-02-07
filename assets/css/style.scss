@@ -23,7 +23,7 @@ p {
 #header {
   display:block !important;
   width: 100% !important;
-  height: 110px !important;
+  height: 100px !important;
   min-width: 601px !important;
   overflow:hidden !important;
 
@@ -32,9 +32,9 @@ p {
       width: 400px !important;
       background-color: transparent !important;
       margin: 0 !important;
-      margin-left: 300px !important;
-      margin-right: 20px !important;
-      margin-top: 60px !important;
+      margin-left: auto !important;
+      margin-right: auto !important;
+      margin-top: 55px !important;
       float: right !important;
       position: fixed !important;
 
