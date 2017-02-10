@@ -6,7 +6,7 @@ title: Projects and Experience
 
 ### May 2016 to Present
 
-![Lead N Brimstone Preview Picture](/assets/img/LnBPreview1.png)
+[![Lead N Brimstone Preview Picture](/assets/img/LnBPreview1.png)](/assets/img/LnBPreview1.png)
 
 Site: [Lead N Brimstone](http://www.wadenkanestudios.com/#!projects/leadnbrimestone.html)
 
@@ -83,11 +83,11 @@ More At: [BaseWeapon.cpp](https://github.com/calebsmth54/Code-Samples/blob/maste
 
 *Sample of Animation State Machine*
 
-![Lead N Brimstone Preview Picture](/assets/img/LnBPreview2.png)
+[![Lead N Brimstone Preview Picture](/assets/img/LnBPreview2.png)](/assets/img/LnBPreview2.png)
 
 *Sample of AI Behavior Tree*
 
-![Lead N Brimstone Preview Picture](/assets/img/LnBPreview3.png)
+[![Lead N Brimstone Preview Picture](/assets/img/LnBPreview3.png)](/assets/img/LnBPreview3.png)
 
 ## Personal Projects and Experience (pre-2015)
 
