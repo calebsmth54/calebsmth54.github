@@ -11,7 +11,8 @@
 p {
   img {
     display: block !important;
-    width: 300px !important;
+    max-width: 300px !important;
+    max-height: 300px !important;
     margin-left: auto !important;
     margin-right: auto !important;
   }
