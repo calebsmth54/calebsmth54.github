@@ -91,10 +91,10 @@ More At: [BaseWeapon.cpp](https://github.com/calebsmth54/Code-Samples/blob/maste
 
 ## Personal Projects and Experience (pre-2015)
 
-*Horror Turn Based Game (C++/Blueprint Scripting/Unreal Editor) Early WIP:* A unique take on the horror movie genre inspired by the film _Cabin in the Woods_ and the tabletop game _Betrayal on Haunted House Hill_, that combines horror and turn based strategy concepts. Players take control of the ephemeral evil force pulling all the strings. Development put on hold to focus on Lead N Brimstone.
+**Horror Turn Based Game (C++/Blueprint Scripting/Unreal Editor) Early WIP:** A unique take on the horror movie genre inspired by the film _Cabin in the Woods_ and the tabletop game _Betrayal on Haunted House Hill_, that combines horror and turn based strategy concepts. Players take control of the ephemeral evil force pulling all the strings. Development put on hold to focus on Lead N Brimstone.
 
-*Phaser Development (Javascript/Phaser/HTML5):* Two simple projects I developed in order to learn JavaScript and learn about mobile game development.
+**Phaser Development (Javascript/Phaser/HTML5):** Two simple projects I developed in order to learn JavaScript and learn about mobile game development.
 
-*Classic Game Clones (C++/SDL/Engine Development):* Developed game clones of _Pong_, _Tetris_ and _Pac-Man_ which established my strong programming fundamentals and understanding of how game engines work on a base level.
+**Classic Game Clones (C++/SDL/Engine Development):** Developed game clones of _Pong_, _Tetris_ and _Pac-Man_ which established my strong programming fundamentals and understanding of how game engines work on a base level.
 
-*Source Engine Modding (C++/Level Design & Scripting/Hammer Editor):* Developed numerous maps focusing on geometry building, atmosphere setting and entity scripting. Made minor code modifications to weapon, character and game mode classes. Received constructive criticism from and gave to my peers.
+**Source Engine Modding (C++/Level Design & Scripting/Hammer Editor):** Developed numerous maps focusing on geometry building, atmosphere setting and entity scripting. Made minor code modifications to weapon, character and game mode classes. Received constructive criticism from and gave to my peers.
