@@ -1,5 +1,5 @@
 ---
-title: Hello, Stranger
+title: Hello
 ---
 
 ![ProfilePicture](/assets/img/profilepic.jpg)
