@@ -16,14 +16,13 @@ A fast paced, 2D side scrolling shooter inspired by _Contra_, _Ghost 'n Goblins_
 *Weapon System:*
 
 - Designed, implemented and coded a weapon system that could support various weapon types (Trace, Projectile and Melee).
-- Used by both enemies and player for unique attacks.
+- Used by both enemy and player characters for unique attacks.
 - Designed to be easily extended in the Blueprints scripting system.
 
 *Characters:*
 
 - Developed a base character class that could support our wide range of character types.
 - Implemented animation state machines for characters.
-- Lengthened and modified animations in editor.
 
 *AI:*
 
@@ -34,7 +33,7 @@ A fast paced, 2D side scrolling shooter inspired by _Contra_, _Ghost 'n Goblins_
 
 - Setup and continued to manage Perforce repository and assisted team with use of version control.
 - Helped team members make transition from Unity development to Unreal development.
-- Took on responsibility of implementing all of the major gameplay features after Lead Programmer left project.
+- Took on responsibility of implementing all of the major gameplay features.
 - Assisted with design of the game as well as worked with designers on exposing core C++ features to Blueprint Scripting System.
 - Regularly refactor code in order to achieve readability and ease of use.
 
@@ -93,8 +92,6 @@ More At: [BaseWeapon.cpp](https://github.com/calebsmth54/Code-Samples/blob/maste
 
 **Horror Turn Based Game (C++/Blueprint Scripting/Unreal Editor) Early WIP:** A unique take on the horror movie genre inspired by the film _Cabin in the Woods_ and the tabletop game _Betrayal on Haunted House Hill_, that combines horror and turn based strategy concepts. Players take control of the ephemeral evil force lurking behind the scenes. Development put on hold to focus on Lead N Brimstone.
 
-**Phaser Development (Javascript/Phaser/HTML5):** Two simple projects I developed in order to learn JavaScript and mobile game development.
+**Classic Game Clones (C++/SDL/Engine Development):** Developed game clones of _Pong_, _Tetris_ and _Pac-Man_ which established strong programming fundamentals and understanding of how game engines work on a base level. Created a game loop in SDL that updated game entities, rendered sprites independently of game timing, and a sprite resource manager.
 
-**Classic Game Clones (C++/SDL/Engine Development):** Developed game clones of _Pong_, _Tetris_ and _Pac-Man_ which established strong programming fundamentals and understanding of how game engines work on a base level.
-
-**Source Engine Modding (C++/Level Design & Scripting/Hammer Editor):** Developed numerous maps focusing on building geometry, setting atmospheric tone and entity scripting. Made minor code modifications to weapon, character and game mode classes. Worked collaboratively many other modders.
+**Source Engine Modding (C++/Level Design & Scripting/Hammer Editor):** Developed numerous maps with a focus focusing on building level geometry, setting atmospheric tone with lighting and effects, and creating level scripted events. Made minor code modifications to weapon, character and game mode classes. Worked collaboratively many other modders.
