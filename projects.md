@@ -27,7 +27,7 @@ A fast paced, 2D side scrolling shooter inspired by _Contra_, _Ghost 'n Goblins_
 *AI:*
 
 - Developed base AI functions that would lay the ground work for every enemy behavior in game.
-- Utilized Unreal's Behavior Tree System so that large variation of AI behaviors could be created easily and tested immediately in the editor.
+- Utilized UE4's Behavior Tree System so that large variation of AI behaviors could be created easily and tested immediately in the editor.
 
 *Project Management:*
 
