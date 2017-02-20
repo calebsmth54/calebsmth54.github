@@ -6,7 +6,7 @@ title:
 
 Hello there stranger.
 
-Ten years ago my passion for virtual worlds as a casual observer progressed from tinkering with console commands to wanting to pursue a career as a game developer. In this time span I taught myself C++, participated in the Source Engine modding community, developed my own games using frameworks like SDL and Phaser, to now where I am the lead programmer on an independent UE4 game. I have come a long way from where I started, but my drive for learning more hasn't lessened.
+Ten years ago my passion for virtual worlds as a casual observer progressed from tinkering with console commands to wanting to pursue a career as a game developer. In this time span I taught myself C++, participated in the Source Engine modding community, developed my own games using frameworks like SDL and Phaser, to now where I am as the lead programmer on an independent UE4 game. I have come a long way from where I started, but my drive for learning hasn't lessened.
 
 That is why I am currently seeking entry-level game programming employment at a AAA studio. I thrive in an environment surrounded by talented and creative people. Working with others pushes me to always top the quality of my work and I really enjoy helping out my colleagues with technical advice or feedback. If given the opportunity, I know that I can leverage my existing knowledge of game engine architecture and game design to hit the ground running and become a valuable long term hire.
 
