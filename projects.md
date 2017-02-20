@@ -80,11 +80,11 @@ void ABaseWeapon::FireWeapon()
 ```
 More At: [BaseWeapon.cpp](https://github.com/calebsmth54/Code-Samples/blob/master/LnBSample1.cpp)
 
-*Animation State Machine Sample*
+**Animation State Machine Sample**
 
 [![Lead N Brimstone Preview Picture](/assets/img/LnBPreview2.png)](/assets/img/LnBPreview2.png){:target="_blank"}
 
-*AI Behavior Tree Sample*
+**AI Behavior Tree Sample**
 
 [![Lead N Brimstone Preview Picture](/assets/img/LnBPreview3.png)](/assets/img/LnBPreview3.png){:target="_blank"}
 
