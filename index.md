@@ -1,5 +1,5 @@
 ---
-title:
+title: Welcome
 ---
 
 ![ProfilePicture](/assets/img/profilepic.jpg)
