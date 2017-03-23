@@ -13,6 +13,7 @@ That is why I am currently seeking entry-level game programming employment at a 
 Thank you for stopping by to check out my portfolio. Please feel free to contact me if you wish to discuss my qualifications further, or if you just want to chat and give me feedback on my work. I am always interested in talking shop with fellow developers.
 
 Sincerely,
+
 Caleb Smith.
 
 _Caleb Smith is a gameplay programmer currently working at Waden Kane Game Studios on an Unreal Engine 4, sidescrolling action game, **Lead N Brimstone**. When not working, he likes to play a sickening amount of Dota 2, learn new cooking recipes, and play tabletop games._
