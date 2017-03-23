@@ -63,4 +63,4 @@ A fast paced, 2D side scrolling shooter inspired by _Contra_, _Ghost 'n Goblins_
 
 **Horror Turn Based Game (C++/Blueprint Scripting/Unreal Editor) Early WIP:** A unique take on the horror movie genre inspired by the film _Cabin in the Woods_ and the tabletop game _Betrayal on Haunted House Hill_, that combines horror and turn based strategy concepts. Players take control of the ephemeral evil force lurking behind the scenes. Development put on hold to focus on Lead N Brimstone.
 
-**Source Engine Modding (C++/Level Design & Scripting/Hammer Editor):** Developed numerous maps with a focus focusing on building level geometry, setting atmospheric tone with lighting and effects, and creating level scripted events. Made minor code modifications to weapon, character and game mode classes. Worked collaboratively many other modders.
+**Source Engine Modding (C++/Level Design & Scripting/Hammer Editor):** Developed numerous maps with a focus on building level geometry, setting atmospheric tone with lighting and effects, and creating level scripted events. Made minor code modifications to weapon, character and game mode classes. Worked collaboratively with other modders.
