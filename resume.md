@@ -3,7 +3,7 @@ title: Resume
 ---
 
 ## Resume Download
-[pdf](/assets/CalebSmith-Programmer-Resume.pdf){:target="_blank"}
+[pdf](/assets/Caleb_Smith_Programmer_Resume){:target="_blank"}
 
 ## Profile
 A Gameplay Programmer that combines game development experience with a formal film education and is looking to create unforgettable cinematic experiences for players. Whether collaborating with or leading a team, proud to be a source of knowledge for colleagues. Strong desire to grow and learn by working with the best in the industry.
@@ -13,26 +13,26 @@ A Gameplay Programmer that combines game development experience with a formal fi
 
 **Programming:**  Knowledge of Game Architecture,   Design Patterns,   Algorithms and Data Structures
 
-**Tools:**  Microsoft Visual Studio,   Unreal Editor,   Perforce,   Jira,   Hammer Editor
+**Tools:**  Microsoft Visual Studio,   Unreal Editor,   Source Engine,    Perforce,   Jira,   Hammer Editor
 
-**Misc/Other:**  Web Development,   Film Production,   Editing,   Level Development
+**Misc:**  Team Leadership,  3D Math
+
 
 ## Work Experience
 **Waden Kane Studios**   _(Game Programmer)_  **May 2016 to Present**
 
-- Prototype, implement and test core C++ gameplay code
-- Collaborate with designers on design and create systems to be extended in Blueprints
-- Setup and manage Perforce repository
+- Prototype, refactor and debug core C++ gameplay code
+- Work with artists to implement art assets  into game and give advice on technical best practices
+- Participate in regular meetings to demonstrate new features  and gather feedback from colleagues
+- Manage company Perforce repository
 
-**SCD**   _(Contract Web Designer/Developer)_   **August 2016 to Present**
 
-- Develop easy to use content pipeline for future developers
-- Maintain website template across multiple platforms
+**Web Development Contracting**   _(Contract Web Designer/Developer)_   **August 2016 to Present**
 
-**Student Media Creative Services**   _(Media Production Associate)_   **June 2014 to January 2016**
+- Develop easy to use content pipeline for other developers
+- Maintain website template across multiple platforms, including WordPress
+- Research and implement technologies for large scale website operation
 
-- Led team on completion of large client projects and delivered them ahead of deadline
-- Regularly called on to teach new hires and assist on overdue projects
 
 ## Other Development Experience
 **Unreal Engine:**  Work-in-progress turn-based horror game.
