@@ -15,4 +15,4 @@ Thank you for stopping by to check out my portfolio. Please feel free to contact
 Sincerely,
 Caleb Smith.
 
-_Caleb Smith is a gameplay programmer currently working at Waden Kane Game Studios on an Unreal Engine 4, sidescrolling action game, **Lead N Brimstone**. When not working, he likes to play a sickening amount of Dota 2, learn new cooking recipes, play tabletop games and take long walks through the city._
+_Caleb Smith is a gameplay programmer currently working at Waden Kane Game Studios on an Unreal Engine 4, sidescrolling action game, **Lead N Brimstone**. When not working, he likes to play a sickening amount of Dota 2, learn new cooking recipes, and play tabletop games._

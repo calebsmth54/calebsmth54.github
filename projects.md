@@ -37,48 +37,9 @@ A fast paced, 2D side scrolling shooter inspired by _Contra_, _Ghost 'n Goblins_
 - Assisted with design of the game as well as worked with designers on exposing core C++ features to Blueprint Scripting System.
 - Regularly refactor code in order to achieve readability and ease of use.
 
-*Preview of BaseWeapon Code:*
+*Lead N Brimstone Code Samples:*
 
-``` c++
-
-void ABaseWeapon::FireWeapon()
-{
-	ALnBCharacter* WeaponOwner = Cast<ALnBCharacter>(GetOwner());
-	if(!WeaponOwner)
-	{
-		UE_LOG(LogTemp, Warning, TEXT("Weapon fired without an owner!"));
-		return;
-	}
-
-	if(!PreFire() || !CanFire())
-		return;
-
-	FVector AimLoc, AimDir;
-	GetAdjustedAim(AimLoc, AimDir);
-
-	//
-	// Normal Fire mode
-	//
-	if(BurstCount <= 0.0f)
-	{
-		if(MaxSpread > 0.0f)
-			ApplyAimSpread(AimDir);
-
-		Fire(WeaponOwner, AimLoc, AimDir);
-	}
-	//
-	// Burst Fire Mode
-	//
-	else
-	{
-		BurstFire(WeaponOwner, AimLoc, AimDir);
-	}
-
-	PostFire();
-}
-
-```
-More At: [BaseWeapon.cpp](https://github.com/calebsmth54/Code-Samples/blob/master/LnBSample1.cpp)
+[UE4 Coding Samples](https://github.com/calebsmth54/Code-Samples/tree/master/LNB)
 
 **Animation State Machine Sample**
 
@@ -91,7 +52,5 @@ More At: [BaseWeapon.cpp](https://github.com/calebsmth54/Code-Samples/blob/maste
 ## Personal Projects and Experience (pre-2015)
 
 **Horror Turn Based Game (C++/Blueprint Scripting/Unreal Editor) Early WIP:** A unique take on the horror movie genre inspired by the film _Cabin in the Woods_ and the tabletop game _Betrayal on Haunted House Hill_, that combines horror and turn based strategy concepts. Players take control of the ephemeral evil force lurking behind the scenes. Development put on hold to focus on Lead N Brimstone.
-
-**Classic Game Clones (C++/SDL/Engine Development):** Developed game clones of _Pong_, _Tetris_ and _Pac-Man_ which established strong programming fundamentals and understanding of how game engines work on a base level. Created a game loop in SDL that updated game entities, rendered sprites independently of game timing, and a sprite resource manager.
 
 **Source Engine Modding (C++/Level Design & Scripting/Hammer Editor):** Developed numerous maps with a focus focusing on building level geometry, setting atmospheric tone with lighting and effects, and creating level scripted events. Made minor code modifications to weapon, character and game mode classes. Worked collaboratively many other modders.
