@@ -39,7 +39,7 @@ A fast paced, 2D side scrolling shooter inspired by _Contra_, _Ghost 'n Goblins_
 
 *Lead N Brimstone Code Samples:*
 
-[UE4 Coding Samples](https://github.com/calebsmth54/Code-Samples/tree/master/LNB)
+[C++ Coding Samples on Github](https://github.com/calebsmth54/Code-Samples/tree/master/LNB)
 
 **Animation State Machine Sample**
 
