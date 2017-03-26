@@ -21,19 +21,17 @@ My solution was to create a base weapon class with a series of parameters (fire 
 
 *Characters:*
 
-Designed a character system that can be used by both players and enemies. I accomplished this by using the excellent template Epic provided in the ACharacter class. by extending this with key functionality (health/damage, stunned state, etc.) and various variables. Common parameters and behaviors are also exposed to easily cue animations in an animation state machine.
+Designed a character system that can be used by both players and enemies. I accomplished this by using the excellent template Epic provided in the ACharacter class. by extending this with functionality (health/damage, stunned state, etc.) and various variables. Common parameters and behaviors are also exposed to easily cue animations in an animation state machine.
 
 *AI:*
 
-Unreal Engine 4 offers a rich library of AI functionality for traversing through complex 3D worlds and querying their environment to make nuanced decisions. While this is probably a life saver for most projects, these systems were too complex for our retro AI.
+Unreal Engine 4 offers a rich library of AI functionality for traversing through complex 3D worlds and querying their environment to make nuanced decisions. While this is probably a life saver for most projects, a lot of that is unneeded in ours.
 
 What I wanted to accomplish was discrete behaviors (charging, fleeing, etc.) that could be mixed and match to easily create AI for a large range of enemies. I accomplished this by coding these behaviors in the base AI class and then exposing them to tasks and decorators in the behavior tree. This allows myself and designers to easily prototype and modify enemy behaviors by modifying parameters set in the base AI class and modifying nodes in the AI behavior tree.
 
 *Project Management:*
 
 I started as an intern at Waden Kane Games. Starting off I was tasked with researching UE4 best technical practices and setting up a Perforce repository. I accomplished both of these tasks in a short time and I continue to use this foundational knowledge to assist my team members.
-
-After the Lead Programmer on the project moved onto another project, I took over his responsibilities of coding all of the game. It was a tough transition, but thankfully I was able to utilize my knowledge of game engines and my ability to research problems on my own, to get prototype elements of the game up and running.
 
 When I'm not coding, I assist my team members with various technical challenges they come up against. Recently one of our artists found that our levels were becoming too big and complex for his machine. We solved this problem by splitting up the level into 8 chunks using UE4's streaming features. This solution accomplished several things, including allowing team members on lower spec PCs to modify the level, allowing multiple people to edit a level at once and provide a base test case for streaming the level in game.
 
