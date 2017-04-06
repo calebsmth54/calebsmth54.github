@@ -2,8 +2,7 @@
 title: Resume
 ---
 
-## Resume Download
-[pdf](/assets/Caleb_Smith_Programmer_Resume.pdf){:target="_blank"}
+[Download PDF Version](/assets/Caleb_Smith_Programmer_Resume.pdf){:target="_blank"}
 
 
 ## Profile
