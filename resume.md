@@ -33,7 +33,7 @@ A self-taught game programmer looking to grow as a developer by working with and
 
 **Web Development Contracting**   
 
-**Contract Web Designer/Developer)**  _(August 2016 to Present)_
+**Contract Web Designer/Developer**  _(August 2016 to Present)_
 
 - Develop easy to use media content pipeline for other non-developers
 
