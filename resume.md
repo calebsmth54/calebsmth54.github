@@ -7,13 +7,13 @@ title: Resume
 
 
 ## Profile
-A self-taught game programmer looking to grow as a developer by working with and learning from a team of experienced developers.
+A self-taught game programmer looking to grow as a developer by working with and learning from a team of veteran developers.
 
 
 ## Skills
 **Languages:**  Strong Knowledge of C++,  Java,  Javascript,  C# familiarity
 
-**Tools:**  Microsoft Visual Studio,  Perforce,  Jira,  Unreal Editor,  Source Engine,
+**Tools:**  Microsoft Visual Studio,  Perforce,  Jira,  Unreal Editor,  Source Engine
 
 **Misc:**  Team Leadership,  3D Math,  Filmmaking
 
@@ -23,7 +23,7 @@ A self-taught game programmer looking to grow as a developer by working with and
 
 **Waden Kane Game Studios**
 
-_(Game Programmer)_  **May 2016 to Present**
+**Game Programmer**  _(May 2016 to Present)_
 
 - Design, prototype and debug C++ gameplay code
 
@@ -34,7 +34,7 @@ _(Game Programmer)_  **May 2016 to Present**
 
 **Web Development Contracting**   
 
-_(Contract Web Designer/Developer)_   **August 2016 to Present**
+**Contract Web Designer/Developer)**  _(August 2016 to Present)_
 
 - Develop easy to use media content pipeline for other non-developers
 
@@ -58,5 +58,6 @@ _(Contract Web Designer/Developer)_   **August 2016 to Present**
 
 **Arizona State University**
 
-_Film and Media Production_  **2012 to 2016**
+_Film and Media Production_  (**2012 to 2016**)
+
 (124 credits)
