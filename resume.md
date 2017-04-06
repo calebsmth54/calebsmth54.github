@@ -58,6 +58,5 @@ _(Contract Web Designer/Developer)_   **August 2016 to Present**
 
 **Arizona State University**
 
-_Film and Media Production_  **2012 to 2015**
-_Computer Science_ **2015 to 2016**
+_Film and Media Production_  **2012 to 2016**
 (124 credits)
