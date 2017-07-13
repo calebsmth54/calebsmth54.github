@@ -6,12 +6,12 @@ title: Welcome
 
 Hello there stranger.
 
-Ten years ago my passion for video games progressed from casual observer to actively learning about game development. In this time span I taught myself C++, participated in the Source Engine mod community, developed my own games using frameworks like SDL and Phaser, to now where I am the lead programmer on an independent UE4 game. I have come a long way from where I started, but my drive for improving as a developer hasn't died down.
+Ten years ago my passion for video games progressed from casual observer to actively learning about game development. In this time span I taught myself C++, participated in the Source Engine mod community, developed my own games using frameworks like SDL and Phaser, to now where I work primarily with the Unreal Engine. I have come a long way from where I started, but my passion for continually improving my self as a developer hasn't lessened.
 
-Thank you for stopping by to check out my portfolio. Please feel free to contact me. I am always interested in talking shop with fellow developers.
+Thank you for stopping by to check out my portfolio. Please feel free to contact me.
 
-Sincerely,
+Have a good one!
 
 Caleb Smith.
 
-_Caleb Smith is a gameplay programmer currently working at Waden Kane Game Studios on an Unreal Engine 4, sidescrolling action game, **Lead N Brimstone**._
+_Caleb Smith is a gameplay programmer currently looking for QA/Programming opportunities in the LA area.
