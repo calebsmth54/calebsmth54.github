@@ -10,4 +10,4 @@ title: Contact Me
 
 **Skype:** calebsmth54
 
-**Linkedin:** [/in/calebsmth54](https://www.linkedin.com/in/calebsmth54/)
+**LinkedIn:** [/in/calebsmth54](https://www.linkedin.com/in/calebsmth54/)
