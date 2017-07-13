@@ -8,10 +8,10 @@ Site: [Lead N Brimstone](http://www.wadenkanestudios.com/#!projects/leadnbrimest
 <iframe src="https://drive.google.com/file/d/0ByegvJ7suqvHRjFoTTNPbW5TM2c/preview" width="640" height="480" frameBorder="0"></iframe>
 
 ### Game Programmer (C++/Blueprint Scripting/Unreal Editor)
-(May 2016 to Present)
+(May 2016 to April 2017)
 
 ### Game Description
-A fast paced, 2D side scrolling shooter inspired by _Contra_, _Ghost 'n Goblins_ and _Doom_. Players take control of a knight fighting through levels of increasingly difficult demonic creatures.
+A fast paced, 2D side scrolling shooter inspired by _Contra_, _Ghost 'n Goblins_ and _Doom_. Players take control of a knight fighting through fantasy world full of demonic creatures.
 
 **Lead N Brimstone Code Samples:**
 [Code on Github](https://github.com/calebsmth54/LeadNBrimstone)
@@ -40,21 +40,21 @@ A fast paced, 2D side scrolling shooter inspired by _Contra_, _Ghost 'n Goblins_
 
 *Weapon System:*
 
-We needed a weapon system that could be easily extend base functionality to be used in a variety of situations.
+We needed a weapon system that could be easily extended for a variety of weapon types.
 
 My solution was to create a base weapon class with a series of parameters (fire rate, max spread, etc.), functionality (burst fire, overheating, etc.), and exposing key events and variables to Blueprints. I then extended this base class into two sub-classes, AShootWeapon and AMeleeWeapon, to handle the specifics of the actual firing mechanism.
 
 
 *AI:*
 
-Unreal Engine 4 offers a rich library of AI functionality for traversing through complex 3D worlds and querying their environment to make nuanced decisions. While this is probably a life saver for more complicated projects, those features are unneeded in ours.
-
-What I wanted to accomplish was discrete behaviors (charging, fleeing, etc.) that could be mixed and match to easily create AI for a large range of enemies. I accomplished this by coding these behaviors in the base AI class and then exposing them to tasks and decorators in the behavior tree. This allows myself and designers to easily prototype and modify enemy behaviors by modifying parameters set in the base AI class and modifying nodes in the AI behavior tree.
+What I wanted to accomplish was discrete behaviors (charging, fleeing, etc.) that could be mixed and match to create AI for a large range of enemies. I accomplished this by coding these behaviors in the base AI class and then exposing them to Behavior Tree Tasks and Decorators. This allows coders and designers to easily prototype and modify enemy behaviors by tweaking parameters set in the base AI class and using specific nodes in the AI behavior tree.
 
 
 *Project Management:*
 
-When I'm not coding, I assist my team members with various technical challenges they come up against. Recently one of our artists found that our levels were becoming too big and complex for his machine to handle. We solved this problem by splitting up the level into 8 chunks using UE4's level streaming functionality. This solution accomplished several things, including allowing team members on lower spec PCs to modify the level, allowing multiple people to edit a level at once and provide a test case for streaming the level in game.
+When I'm not coding, I assist my team members with various technical challenges they come up against.
+
+One of our artists found that our levels were becoming too big and complex for his machine to handle. We solved this problem by splitting up the level into separate chunks using UE4's level streaming functionality. This solution accomplished several things, including giving team members on lower end PCs  the ability to work on levels, allowing multiple people to edit a level at once and provide a test case for future use of the streaming system.
 
 
 ## Personal Projects and Experience (pre-2015)
