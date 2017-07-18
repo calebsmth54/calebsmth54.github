@@ -8,7 +8,8 @@ title: Projects and Experience
 (July 2017 to Present)
 
 [![Horror RTS Preview](/assets/img/HHTBSPreview.png)](/assets/img/HHTBSPreview.png){:target="_blank"}
-__
+<div style="display:none;">_</div>
+
 ### Game Description
 A unique take on the RTS genre that mixes horror movie tropes, procedurally generated levels and ideas from the  _The Sims_. Players take control of an unseen evil force trying to lure unsuspecting AI into unleashing a sleeping monster. Inspired by _Betrayal on Haunted House Hill_ and _Cabin in the Woods_.
 
@@ -55,12 +56,12 @@ A fast paced, 2D side scrolling shooter inspired by _Contra_, _Ghost 'n Goblins_
 **Animation State Machine Sample:**
 
 [![Lead N Brimstone Preview Picture](/assets/img/LnBPreview2.png)](/assets/img/LnBPreview2.png){:target="_blank"}
-__
+<div style="display:none;">_</div>
 
 **Blueprint Scripting Sample:**
 
 [![Lead N Brimstone Preview Picture](/assets/img/BPPreview1.png)](/assets/img/BPPreview1.png){:target="_blank"}
-__
+<div style="display:none;">_</div>
 
 [Part 2](/assets/img/BPPreview2.png) -
 [Part 3](/assets/img/BPPreview3.png) -
@@ -72,7 +73,7 @@ __
 **AI Behavior Tree Sample:**
 
 [![Lead N Brimstone Preview Picture](/assets/img/LnBPreview3.png)](/assets/img/LnBPreview3.png){:target="_blank"}
-__
+<div style="display:none;">_</div>
 
 *Weapon System:*
 
@@ -99,21 +100,21 @@ Worked with designers on turning vision of game into functioning game mechanics.
 ### Game Programmer (Phaser - Javascript)
 (2015)
 
-[Play Here!](/phaser-games/Brick/Breakbrickbreaker.html)
+[Play Here!](/phaser-games/BrickBreaker/brickbreaker.html)
 
 ### Game Description
 A simple breakout clone I developed over a short amount of time to learn Javascript and Phaser.
 
-## Pacman Clone
+## Pac-Man Clone
 
 ### Programmer (SDL - C++)
 (2006)
 
-[![Pacman Clone Preview Image](/assets/img/PMPreview.png)](/assets/img/PMPreview.png){:target="_blank"}
-__
+[![Pacman Clone Preview Image](/assets/img/PMPreview.png)](/assets/img/PMPreview.PNG){:target="_blank"}
+<div style="display:none;">_</div>
 
 ### Game Description
-One of my earlier projects. An almost one to one clone of the original Pacman. Researched how the AI behaved in the original arcade game and matched it almost exactly. Developed a resource management system with handles to resources that prevented multiple instances of a resource from being loaded. Every object in the game belonged to an Entity hierarchy that contained base properties and Update/Render overrideable functions. Render loop would update at a constant 60fps while the Update loop would update frame-independently of the render loop.
+One of my earlier projects. An almost one to one clone of the original _Pac-Man_. Researched how the AI behaved in the original arcade game and matched it almost exactly. Developed a resource management system with handles to resources that prevented multiple instances of a resource from being loaded. Every object in the game belonged to an Entity hierarchy that contained base properties and Update/Render overrideable functions. Render loop would update at a constant 60fps while the Update loop would update frame-independently of the render loop.
 
 
 ## Source Engine Modding
