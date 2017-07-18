@@ -110,7 +110,7 @@ A simple breakout clone I developed over a short amount of time to learn Javascr
 ### Programmer (SDL - C++)
 (2006)
 
-[![Pacman Clone Preview Image](/assets/img/PMPreview.png)](/assets/img/PMPreview.PNG){:target="_blank"}
+[![Pacman Clone Preview Image](/assets/img/PMPreview.PNG)](/assets/img/PMPreview.PNG){:target="_blank"}
 <div style="display:none;">_</div>
 
 ### Game Description
