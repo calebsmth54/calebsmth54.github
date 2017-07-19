@@ -28,14 +28,14 @@ A simple web-based trivia card game I am developing for a client using MongoDB a
 ### Game Programmer (Unity - Unreal - C# - C++ - Blueprint Scripting)
 (2016 to 2017)
 
-### Game Description
+### Games Description
 Worked on several smaller games including:
 
-A bumper cart style battle game where players would face their armies off against each other made with Unity. Developed art assets and all of the code.
+A two player bumper cart style battle game where players would battle each others armies. Made with Unity. Developed art assets and all of the code.
 
-A possession mechanic that allowed players to take control of other characters and objects in the world made with UE4. Developed exclusively with Blueprints.
+A small prototype for possession mechanic that allowed players to take control of other characters and objects in the world to solve puzzles. Made with UE4. Developed entirely with Blueprints.
 
-A Maze exploration game that used player voice commands to repel or attract wandering alien enemies made with Unity. Developed small level scripts, voice system and opening menu screen.
+A Maze exploration game that used player voice commands to repel or attract wandering alien enemies made with Unity. Worked with Waden Kane team and developed level scripts, voice system and opening menu screen.
 
 
 ## Lead N Brimstone
@@ -51,7 +51,6 @@ A fast paced, 2D side scrolling shooter inspired by _Contra_, _Ghost 'n Goblins_
 
 **Lead N Brimstone Code:**
 [Code on Github](https://github.com/calebsmth54/LeadNBrimstone)
-
 
 **Animation State Machine Sample:**
 
@@ -77,7 +76,7 @@ A fast paced, 2D side scrolling shooter inspired by _Contra_, _Ghost 'n Goblins_
 
 *Weapon System:*
 
-Developed an easy to extend weapon system that fires projectiles, trace lines and timed melee attacks for players, AI and the environment.
+Developed an easy to extend weapon system that fires projectiles, trace lines and timed melee attacks for players, AI and environment traps. Opened functionality up to scripting so that designers could easily prototype new weapon ideas.
 
 
 *AI:*
@@ -114,7 +113,7 @@ A simple breakout clone I developed over a short amount of time to learn Javascr
 <div style="display:none;">_</div>
 
 ### Game Description
-One of my earlier projects. An almost one to one clone of the original _Pac-Man_. Researched how the AI behaved in the original arcade game and matched it almost exactly. Developed a resource management system with handles to resources that prevented multiple instances of a resource from being loaded. Every object in the game belonged to an Entity hierarchy that contained base properties and Update/Render overrideable functions. Render loop would update at a constant 60fps while the Update loop would update frame-independently of the render loop.
+One of my earlier projects. An almost one to one clone of the original _Pac-Man_. Researched how the AI behaved in the original arcade game and mimicked it closely. Developed a resource management system with handles to resources that prevented multiple instances of a resource from being loaded. Every object in the game belonged to an Entity hierarchy that contained base properties and Update/Render overrideable functions. Separated render and update loops from being locked to each other, ensuring that the game updated at a constant frame-rate and rendering would happen as fast as possible.
 
 
 ## Source Engine Modding
@@ -123,4 +122,4 @@ One of my earlier projects. An almost one to one clone of the original _Pac-Man_
 (2006 to 2010)
 
 ### Game Description
-Developed numerous maps with a focus on building level geometry, setting atmospheric tone with lighting and effects, and creating scripted level events. Made minor code modifications to weapon, character and game mode classes. Worked collaboratively with other modders.
+Developed numerous maps with a focus on building level geometry, setting atmospheric tone with lighting and effects, and creating scripted level events. Made minor code modifications to weapon, character and game mode classes. Worked collaboratively with other modders in the Interlopers community.
