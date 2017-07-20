@@ -31,13 +31,15 @@ A simple web-based trivia card game I am developing for a client using MongoDB a
 ### Games Description
 Worked on several smaller games including:
 
-A two player bumper cart style battle game where players would battle each others armies. Made with Unity. Developed art assets and all of the code.
+*War of the Broses:* A two player bumper cart style battle game where players would battle each others armies. Made with Unity. Developed art assets and all of the code.
+[![War of the Broses Preview](/assets/img/WOBPreview.png)](/assets/img/WOBPreview.png){:target="_blank"}
+<div style="display:none;">_</div>
 
-A small prototype for possession mechanic that allowed players to take control of other characters and objects in the world to solve puzzles. Made with UE4. Developed entirely with Blueprints.
+*Possessor:* A mall possession mechanic prototype that allowed players to take control of other characters and objects in the world to solve puzzles. Made with UE4. Developed entirely with Blueprints.
 [![Possessor Preview Picture](/assets/img/PossPreview.gif)](/assets/img/PossPreview.gif){:target="_blank"}
 <div style="display:none;">_</div>
 
-A Maze exploration game that used player voice commands to repel or attract wandering alien enemies made with Unity. Worked with Waden Kane team and developed level scripts, voice system and opening menu screen.
+*Maze Exploration Game:* Used player voice commands to repel or attract wandering alien enemies made with Unity. Worked with Waden Kane team and developed level scripts, voice system and opening menu screen.
 [Code on Github](https://github.com/moariqplz/Country-Men-GameJam)
 
 ## Lead N Brimstone
