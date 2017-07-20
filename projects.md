@@ -32,6 +32,7 @@ A simple web-based trivia card game I am developing for a client using MongoDB a
 Worked on several smaller games including:
 
 *War of the Broses:* A two player bumper cart style battle game where players would battle each others armies. Made with Unity. Developed art assets and all of the code.
+[Code on Github](https://github.com/calebsmth54/War-of-the-Broses)
 [![War of the Broses Preview](/assets/img/WOBPreview.png)](/assets/img/WOBPreview.png){:target="_blank"}
 <div style="display:none;">_</div>
 
