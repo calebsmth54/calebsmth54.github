@@ -11,7 +11,7 @@ title: Projects and Experience
 <div style="display:none;">_</div>
 
 ### Game Description
-A unique take on the RTS genre that mixes horror movie tropes, procedurally generated levels and ideas from the  _The Sims_. Players take control of an unseen evil force trying to lure unsuspecting AI into unleashing a sleeping monster. Inspired by _Betrayal on Haunted House Hill_ and _Cabin in the Woods_.
+A unique take on the RTS genre that mixes horror movie tropes, procedurally generated levels and ideas from the _The Sims_. Players take control of an unseen evil force luring unsuspecting AI into unleashing a sleeping monster. Inspired by _Betrayal on Haunted House Hill_ and _Cabin in the Woods_.
 
 
 ## Trivia Card Game (NDA)
@@ -36,7 +36,7 @@ Worked on several smaller games including:
 [![War of the Broses Preview](/assets/img/WOBPreview.png)](/assets/img/WOBPreview.png){:target="_blank"}
 <div style="display:none;">_</div>
 
-*Possessor:* A mall possession mechanic prototype that allowed players to take control of other characters and objects in the world to solve puzzles. Made with UE4. Developed entirely with Blueprints.
+*Possessor:* A small possession mechanic prototype that allowed players to take control of other characters and objects in the world to solve puzzles. Made with UE4. Developed entirely with Blueprints.
 [![Possessor Preview Picture](/assets/img/PossPreview.gif)](/assets/img/PossPreview.gif){:target="_blank"}
 <div style="display:none;">_</div>
 

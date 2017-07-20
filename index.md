@@ -10,8 +10,7 @@ Ten years ago my passion for video games progressed from casual observer to acti
 
 Thank you for stopping by to check out my portfolio. Please feel free to contact me.
 
-Have a good one!,
-
+Have a good one,
 Caleb Smith.
 
 _Caleb Smith is a gameplay programmer currently looking for QA/Programming opportunities near the San Fernando Valley area._
