@@ -34,9 +34,11 @@ Worked on several smaller games including:
 A two player bumper cart style battle game where players would battle each others armies. Made with Unity. Developed art assets and all of the code.
 
 A small prototype for possession mechanic that allowed players to take control of other characters and objects in the world to solve puzzles. Made with UE4. Developed entirely with Blueprints.
+[![Possessor Preview Picture](/assets/img/PossPreview.gif)](/assets/img/PossPreview.gif){:target="_blank"}
+<div style="display:none;">_</div>
 
 A Maze exploration game that used player voice commands to repel or attract wandering alien enemies made with Unity. Worked with Waden Kane team and developed level scripts, voice system and opening menu screen.
-
+[Code on Github](https://github.com/moariqplz/Country-Men-GameJam)
 
 ## Lead N Brimstone
 Site: [Lead N Brimstone](http://www.wadenkanestudios.com/#!projects/leadnbrimestone.html)
@@ -74,7 +76,7 @@ A fast paced, 2D side scrolling shooter inspired by _Contra_, _Ghost 'n Goblins_
 [![Lead N Brimstone Preview Picture](/assets/img/LnBPreview3.png)](/assets/img/LnBPreview3.png){:target="_blank"}
 <div style="display:none;">_</div>
 
-*Weapon System:*
+*Weapon Mechanics:*
 
 Developed an easy to extend weapon system that fires projectiles, trace lines and timed melee attacks for players, AI and environment traps. Opened functionality up to scripting so that designers could easily prototype new weapon ideas.
 
@@ -84,7 +86,7 @@ Developed an easy to extend weapon system that fires projectiles, trace lines an
 Developed a base AI class with several behaviors (idling, charging, attacking, etc.) that could be reused by all of our enemy types. Integrated functionality into Blueprints and Behavior Trees so that designers could quickly prototype new enemy types with a library of behaviors.
 
 
-*Leadership:*
+*Teamwork:*
 
 Helped transition new and old team members from Unity to Unreal.
 
@@ -99,7 +101,12 @@ Worked with designers on turning vision of game into functioning game mechanics.
 ### Game Programmer (Phaser - Javascript)
 (2015)
 
+[![Brick Breaker Preview Image](/assets/img/BBPreview.png)](/assets/img/BBPreview.png){:target="_blank"}
+<div style="display:none;">_</div>
+
 [Play Here!](/phaser-games/BrickBreaker/brickbreaker.html)
+
+[Code on Github](https://github.com/calebsmth54/BrickBreaker)
 
 ### Game Description
 A simple breakout clone I developed over a short amount of time to learn Javascript and Phaser.
