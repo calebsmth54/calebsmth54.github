@@ -10,11 +10,11 @@ title: Projects and Experience
 [![The Dying of the Light Preview Image](/assets/img/LDPrev1.png)](/assets/img/LDPrev1.png){:target="_blank"}
 <div style="display:none;">_</div>
 
-[Project Page](https://ldjam.com/events/ludum-dare/39/$37997)
+[Project Page](https://ldjam.com/events/ludum-dare/39/$37997) - 
 [Github Page](https://github.com/calebsmth54/LDJam_39)
 
 [Preview Image 1](/assets/img/LDPrev2.png) -
-[Preview Image 2](/assets/img/LDPrev3.png) -
+[Preview Image 2](/assets/img/LDPrev3.png)
 
 ### Game Description
 A project me and a group of others developed for Ludum Dare /#39 with the theme "Running out of Power". Rather than taking this prompt literally and developing a game about battery power, our team collectively decided on a hero who would continually lose abilities over the course of the game. The combat was inspired by _Superbrothers: Sword & Sorcery_ with a simple click the ability interface and timing based combat. AI runs on a simple interval based action state, with random rolling for Idle or Attack States. Players can attack, block, heal and quake (do massive damage) to enemies, but as mentioned above, they lose each of these abilities over the course of the game until they are left defenseless against their final foe.
