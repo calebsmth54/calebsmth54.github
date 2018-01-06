@@ -23,17 +23,6 @@ Besides combat, the game is mostly focused on narrative and ambience. I can't gi
 
 Overall this was an incredibly experience and I am very proud that we were able to achieve where others traditionally fail and create a complete, narrative based experience with a unique combat system in only 72 hours.
 
-## Horror RTS Game (Working Title/WIP)
-
-### Personal Project (C++ - Blueprint Scripting - Unreal Editor)
-(July 2017 to Present)
-
-[![Horror RTS Preview](/assets/img/HHTBSPreview.png)](/assets/img/HHTBSPreview.png){:target="_blank"}
-<div style="display:none;">_</div>
-
-### Game Description
-A unique take on the RTS genre that mixes horror movie tropes, procedurally generated levels and ideas from the _The Sims_. Players take control of an unseen evil force luring unsuspecting AI into unleashing a sleeping monster. Inspired by _Betrayal on Haunted House Hill_ and _Cabin in the Woods_.
-
 
 ## Trivia Card Game (NDA)
 
