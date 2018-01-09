@@ -2,7 +2,7 @@
 title: Lead N Brimstone
 ---
 
-## Game Programmer (C++ - Blueprint Scripting - Unreal Editor - Perforce)
+### Game Programmer (C++ - Blueprint Scripting - Unreal Editor - Perforce)
 ## (May 2016 to April 2017)
 
 # GDC 2016 WIP Teaser

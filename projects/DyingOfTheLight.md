@@ -2,7 +2,7 @@
 title: The Dying of the Light
 ---
 
-## Game Programmer & Designer (Blueprint Scripting - Unreal Editor)
+### Game Programmer & Designer (Blueprint Scripting - Unreal Editor)
 ## (July 2017)
 
 [![The Dying of the Light Preview Image](/assets/img/LDPrev1.png)](/assets/img/LDPrev1.png){:target="_blank"}
