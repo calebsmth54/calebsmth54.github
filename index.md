@@ -3,10 +3,10 @@ title: Projects and Experience
 ---
 
 ## **The Dying of the Light**
-[![Lead N Brimstone Preview Picture](/assets/img/LDCover.PNG)](/projects/DyingOfTheLight)
+<span style="border-style:solid; border-width:10px;">[![Lead N Brimstone Preview Picture](/assets/img/LDCover.PNG)](/projects/DyingOfTheLight)</span>
 
 ## **Lead N Brimstone** 
-[![Lead N Brimstone Preview Picture](/assets/img/LnBCover.PNG)](/projects/LeadNBrimstone) 
+<span style="border-style:solid; border-width:10px;">[![Lead N Brimstone Preview Picture](/assets/img/LnBCover.PNG)](/projects/LeadNBrimstone)</span>
 
 ## **Other Games and Misc Projects** 
 [Project Page](/projects/GameJamMisc) 
