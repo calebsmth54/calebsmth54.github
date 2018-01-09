@@ -19,7 +19,7 @@ A fast paced, 2D side scrolling shooter inspired by _Contra_, _Ghost 'n Goblins_
 
 **Animation State Machine Sample:**
 
-[![Lead N Brimstone Preview Picture](/assets/img/LnBPreview2.png)](/assets/img/LnBCover.png){:target="_blank"}
+[![Lead N Brimstone Preview Picture](/assets/img/LnBPreview2.png)](/assets/img/LnBPreview2.png){:target="_blank"}
 <div style="display:none;">_</div>
 
 **Blueprint Scripting Sample:**
