@@ -21,7 +21,7 @@ A fast paced, 2D side scrolling shooter inspired by _Contra_, _Ghost 'n Goblins_
 
 **Blueprint Scripting Sample:**
 
-<span style="border-style:solid; border-width:10px;">[![Lead N Brimstone Preview Picture](/assets/img/BPPreview1.png)](/assets/img/BPPreview1.png){:target="_blank"}</span>
+[![Lead N Brimstone Preview Picture](/assets/img/BPPreview1.png)](/assets/img/BPPreview1.png){:target="_blank"}</span>
 <div style="display:none;">_</div>
 
 [Part 2](/assets/img/BPPreview2.png) -
@@ -36,17 +36,17 @@ A fast paced, 2D side scrolling shooter inspired by _Contra_, _Ghost 'n Goblins_
 [![Lead N Brimstone Preview Picture](/assets/img/LnBPreview3.png)](/assets/img/LnBPreview3.png){:target="_blank"}
 <div style="display:none;">_</div>
 
-### *Weapon Mechanics:*
+#### *Weapon Mechanics:*
 
 Developed an easy to extend weapon system that fires projectiles, trace lines and timed melee attacks for players, AI and environment traps. Opened functionality up to scripting so that designers could easily prototype new weapon ideas.
 
 
-### *AI:*
+#### *AI:*
 
 Developed a base AI class with several behaviors (idling, charging, attacking, etc.) that could be reused by all of our enemy types. Integrated functionality into Blueprints and Behavior Trees so that designers could quickly prototype new enemy types with a library of behaviors.
 
 
-### *Teamwork:*
+#### *Teamwork:*
 
 Helped transition new and old team members from Unity to Unreal.
 
