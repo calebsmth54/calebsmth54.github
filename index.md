@@ -7,7 +7,7 @@ title: Projects and Experience
 
 ## **Lead N Brimstone** 
 [![Lead N Brimstone Preview Picture](/assets/img/LnBCover.PNG)](/projects/LeadNBrimstone)
-<a href="/projects/LeadNBrimstone" style="border-style:solid; border-width:2px;"><img src="/assets/img/LnBCover.PNG" alt="Lead N Brimstone Preview Picture" /></a>
+<a href="/projects/LeadNBrimstone"><img src="/assets/img/LnBCover.PNG" alt="Lead N Brimstone Preview Picture" style="border-style:solid; border-width:2px;"" /></a>
 
 ## **Other Games and Misc Projects** 
 [Project Page](/projects/GameJamMisc) 
