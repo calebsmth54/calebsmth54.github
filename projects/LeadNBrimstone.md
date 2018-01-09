@@ -1,17 +1,14 @@
 ---
-title: Projects and Experience
+Lead N Brimstone
 ---
 
-# Lead N Brimstone
-Site: [Lead N Brimstone](http://www.wadenkanestudios.com/#!projects/leadnbrimestone.html)
+## Game Programmer (C++ - Blueprint Scripting - Unreal Editor - Perforce)
+## (May 2016 to April 2017)
 
-### Game Programmer (C++ - Blueprint Scripting - Unreal Editor - Perforce)
-(May 2016 to April 2017)
+# GDC 2016 WIP Teaser
+<iframe src="https://drive.google.com/file/d/0ByegvJ7suqvHRjFoTTNPbW5TM2c/preview" width="650" frameBorder="0"></iframe>
 
-## GDC 2016 WIP Teaser
-<iframe src="https://drive.google.com/file/d/0ByegvJ7suqvHRjFoTTNPbW5TM2c/preview" width="1024" height="576" frameBorder="0"></iframe>
-
-### Game Description
+## Game Description
 A fast paced, 2D side scrolling shooter inspired by _Contra_, _Ghost 'n Goblins_ and _Doom_. Players take control of a knight fighting through a fantasy world being invaded by a demon army.
 
 **Lead N Brimstone Code:**
@@ -37,19 +34,18 @@ A fast paced, 2D side scrolling shooter inspired by _Contra_, _Ghost 'n Goblins_
 **AI Behavior Tree Sample:**
 
 [![Lead N Brimstone Preview Picture](/assets/img/LnBPreview3.png)](/assets/img/LnBPreview3.png){:target="_blank"}
-<div style="display:none;">_</div>
 
-*Weapon Mechanics:*
+###*Weapon Mechanics:*
 
 Developed an easy to extend weapon system that fires projectiles, trace lines and timed melee attacks for players, AI and environment traps. Opened functionality up to scripting so that designers could easily prototype new weapon ideas.
 
 
-*AI:*
+###*AI:*
 
 Developed a base AI class with several behaviors (idling, charging, attacking, etc.) that could be reused by all of our enemy types. Integrated functionality into Blueprints and Behavior Trees so that designers could quickly prototype new enemy types with a library of behaviors.
 
 
-*Teamwork:*
+###*Teamwork:*
 
 Helped transition new and old team members from Unity to Unreal.
 
