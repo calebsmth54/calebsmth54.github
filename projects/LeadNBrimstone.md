@@ -6,7 +6,7 @@ Lead N Brimstone
 ## (May 2016 to April 2017)
 
 # GDC 2016 WIP Teaser
-<iframe src="https://drive.google.com/file/d/0ByegvJ7suqvHRjFoTTNPbW5TM2c/preview" width="650" frameBorder="0"></iframe>
+<iframe src="https://drive.google.com/file/d/0ByegvJ7suqvHRjFoTTNPbW5TM2c/preview" width="650" height="366" rameBorder="0"></iframe>
 
 ## Game Description
 A fast paced, 2D side scrolling shooter inspired by _Contra_, _Ghost 'n Goblins_ and _Doom_. Players take control of a knight fighting through a fantasy world being invaded by a demon army.
