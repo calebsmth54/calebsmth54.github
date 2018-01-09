@@ -38,12 +38,12 @@ p {
   nav {
       width: 400px !important;
       background-color: transparent !important;
-      margin: 0 !important;
+      /*margin: none !important;*/
       /*margin-left: 450px !important;*/
       margin-right: 15px !important;
       margin-bottom: 15px !important;
       float: right !important;
-      position: fixed !important;
+      position: relative !important;
 
   }
 
