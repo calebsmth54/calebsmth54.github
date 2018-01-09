@@ -5,11 +5,11 @@ title: Lead N Brimstone
 ### Game Programmer (C++ - Blueprint Scripting - Unreal Editor - Perforce)
 ## (May 2016 to April 2017)
 
-# GDC 2016 WIP Teaser
-<iframe src="https://drive.google.com/file/d/0ByegvJ7suqvHRjFoTTNPbW5TM2c/preview" width="650" height="366" FrameBorder="0"></iframe>
-
 ## Game Description
 A fast paced, 2D side scrolling shooter inspired by _Contra_, _Ghost 'n Goblins_ and _Doom_. Players take control of a knight fighting through a fantasy world being invaded by a demon army.
+
+### GDC 2016 WIP Teaser
+<iframe src="https://drive.google.com/file/d/0ByegvJ7suqvHRjFoTTNPbW5TM2c/preview" width="650" height="366" FrameBorder="0"></iframe>
 
 **Lead N Brimstone Code:**
 [Code on Github](https://github.com/calebsmth54/LeadNBrimstone)
