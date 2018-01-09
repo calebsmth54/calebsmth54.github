@@ -8,7 +8,7 @@ title: Projects and Experience
 
 ## Lead N Brimstone 
 [Project Page](/projects/LeadNBrimstone) 
-[![Lead N Brimstone Preview Picture](/assets/img/LnBCover.PNG)](/projects/LeadNBrimstone) {:target="_blank"} 
+[![Lead N Brimstone Preview Picture](/assets/img/LnBCover.PNG)](/projects/LeadNBrimstone){:target="_blank"} 
 
 
 ## Other Games and Misc Projects 
