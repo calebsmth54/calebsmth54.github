@@ -6,7 +6,7 @@ title: Projects and Experience
 <a href="/projects/DyingOfTheLight"><img src="/assets/img/LDCover.PNG" alt="The Dying of the Light Project Page Preview" class="previewBorder" /></a>
 
 ## **Lead N Brimstone** 
-<a href="/projects/LeadNBrimstone"><img src="/assets/img/LnB/LnBCover.PNG" alt="Lead N Brimstone Project Page Preview" class="previewBorder" /></a>
+<a href="/projects/LeadNBrimstone"><img src="/assets/img/LnBCover.PNG" alt="Lead N Brimstone Project Page Preview" class="previewBorder" /></a>
 
 ## **Other Games and Misc Projects** 
 [Project Page](/projects/GameJamMisc) 

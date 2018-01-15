@@ -51,7 +51,7 @@ Developed a base AI class with several behaviors (idling, charging, attacking, e
 
 *Blueprints:*
 
-[![Lead N Brimstone AI Blueprint Preview](/assets/img/LnB/AI_Blueprint0.png)](/assets/img/LnB/AI_Blueprint0.PNG){:target="_blank"}
+[![Lead N Brimstone AI Blueprint Preview](/assets/img/LnB/AI_Blueprint0.PNG)](/assets/img/LnB/AI_Blueprint0.PNG){:target="_blank"}
 <div style="display:none;">_</div>
 
 [Part 2](/assets/img/LnB/AI_Blueprint1.png){:target="_blank"} -
