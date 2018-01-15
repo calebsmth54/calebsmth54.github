@@ -4,7 +4,7 @@ title: Lead N Brimstone
 ## (May 2016 to April 2017)
 ### Game Programmer (C++ - Blueprint Scripting - Unreal Editor - Perforce)
 
-A 2D side-scrolling shooter inspired by _Contra_, _Ghost 'n Goblins_ and _Doom_. Players take control of a knight fighting through a fantasy world being invaded by a demon army.
+_A 2D side-scrolling shooter inspired by _Contra_, _Ghost 'n Goblins_ and _Doom_. Players take control of a knight fighting through a fantasy world being invaded by a demon army._
 
 ### GDC 2016 WIP Teaser
 <iframe src="https://drive.google.com/file/d/0ByegvJ7suqvHRjFoTTNPbW5TM2c/preview" width="650" height="366" FrameBorder="0"></iframe>
@@ -14,10 +14,9 @@ A 2D side-scrolling shooter inspired by _Contra_, _Ghost 'n Goblins_ and _Doom_.
 
 **Weapon Coding and Scripting:**
 
-_Developed an easy to extend weapon system that fires projectiles, trace lines and timed melee attacks for players, AI and environment traps. Opened functionality up to scripting so that designers could easily prototype new weapon ideas._
+Developed an easy to extend weapon system that fires projectiles, trace lines and timed melee attacks for players, AI and environment traps. Opened functionality up to scripting so that designers could easily prototype new weapon ideas.
 
 <iframe src="https://drive.google.com/file/d/1YyE4jJCYvN8OunKgTcyOfLvUAG3G69vW/preview" width="650" height="366" FrameBorder="0"></iframe>
-
 
 
 *Code:* 
@@ -44,6 +43,7 @@ Developed a base AI class with several behaviors (idling, charging, attacking, e
 
 <iframe src="https://drive.google.com/file/d/1xDrt9fPpLisiSFuHXgT2pWqhPp3CveSC/preview" width="650" height="366" FrameBorder="0"></iframe>
 
+
 *Code:*
 
 [AI Code on GitHub](https://github.com/calebsmth54/LeadNBrimstone/tree/master/LnB/Source/LnB/AI){:target="_blank"}
@@ -61,9 +61,9 @@ Developed a base AI class with several behaviors (idling, charging, attacking, e
 
 *Behavior Tree:*
 
-<iframe src="https://drive.google.com/file/d/19-fLg-bduYLE7vwJVEE7kqbCNhIdVGjT/preview" width="650" height="366" FrameBorder="0"></iframe>
+[![Lead N Brimstone AI Behavior Tree Preview](/assets/img/LnB/AI_BT1.png)](/assets/img/LnB/AI_BT1.png){:target="_blank"}
+<div style="display:none;">_</div>
 
-[Sample 1](/assets/img/LnB/AI_BT1.png){:target="_blank"} -
 [Sample 2](/assets/img/LnB/AI_BT2.png){:target="_blank"}
 <div style="display:none;">_</div>
 
@@ -71,6 +71,7 @@ Developed a base AI class with several behaviors (idling, charging, attacking, e
 
 <iframe src="https://drive.google.com/file/d/1yjPYCPkHi7sypdSA7rYtcmbvT3H-oTai/preview" width="650" height="366" FrameBorder="0"></iframe>
 <div style="display:none;">_</div>
+
 
 [part 1](/assets/img/LnB/Knight_AnimBP1.png){:target="_blank"} -
 [Part 2](/assets/img/LnB/Knight_AnimBP2.png){:target="_blank"} -
