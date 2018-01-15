@@ -21,7 +21,7 @@ Developed an easy to extend weapon system that fires projectiles, trace lines an
 
 *Code:*
 
-[![Lead N Brimstone Code Sample](/assets/img/LnB/CodeSample.png)](/assets/img/LnB/CodeSample.png){:target="_blank"}
+[![Lead N Brimstone Code Sample](/assets/img/LnB/CodeSample.PNG)](/assets/img/LnB/CodeSample.PNG){:target="_blank"}
 <div style="display:none;">_</div>
 
 [Weapon Code](https://github.com/calebsmth54/LeadNBrimstone/tree/master/LnB/Source/LnB/Weapons){:target="_blank"}
@@ -46,31 +46,30 @@ Developed a base AI class with several behaviors (idling, charging, attacking, e
 
 *Blueprints:*
 
-[![Lead N Brimstone AI Blueprint Preview](/assets/img/LnB/AI_Blueprint0.png)](/assets/img/LnB/AI_Blueprint0.png){:target="_blank"}
+[![Lead N Brimstone AI Blueprint Preview](/assets/img/LnB/AI_Blueprint0.PNG)](/assets/img/LnB/AI_Blueprint0.PNG){:target="_blank"}
 <div style="display:none;">_</div>
 
-[Part 1](/assets/img/LnB/AI_Blueprint0.png) -
-[Part 2](/assets/img/LnB/AI_Blueprint1.png) -
-[Part 3](/assets/img/LnB/AI_Blueprint2.png) -
-[Part 4](/assets/img/LnB/AI_Blueprint3.png)
+[Part 2](/assets/img/LnB/AI_Blueprint1.PNG) -
+[Part 3](/assets/img/LnB/AI_Blueprint2.PNG) -
+[Part 4](/assets/img/LnB/AI_Blueprint3.PNG)
 
 *Behavior Tree:*
 
 <iframe src="https://drive.google.com/open?id=19-fLg-bduYLE7vwJVEE7kqbCNhIdVGjT/preview" width="650" height="366" FrameBorder="0"></iframe>
 <div style="display:none;">_</div>
 
-[Sample 1](/assets/img/LnB/AI_BT1.png)
-[Sample 2](/assets/img/LnB/AI_BT2.png)
+[Sample 1](/assets/img/LnB/AI_BT1.PNG)
+[Sample 2](/assets/img/LnB/AI_BT2.PNG)
 
 **Animation Programming:**
 
 <iframe src="https://drive.google.com/open?id=1yjPYCPkHi7sypdSA7rYtcmbvT3H-oTai/preview" width="650" height="366" FrameBorder="0"></iframe>
 <div style="display:none;">_</div>
 
-[part 1](/assets/img/LnB/Knight_AnimBP1.png) -
-[Part 2](/assets/img/LnB/Knight_AnimBP2.png) -
-[Part 3](/assets/img/LnB/Knight_AnimBP3.png) -
-[Part 4](/assets/img/LnB/Knight_AnimBP4.png)
+[part 1](/assets/img/LnB/Knight_AnimBP1.PNG) -
+[Part 2](/assets/img/LnB/Knight_AnimBP2.PNG) -
+[Part 3](/assets/img/LnB/Knight_AnimBP3.PNG) -
+[Part 4](/assets/img/LnB/Knight_AnimBP4.PNG)
 
 #### *Teamwork:*
 
