@@ -89,3 +89,18 @@ p {
   -webkit-border-radius: 19px 19px 19px 19px;
   border: 6px solid #000000;
 }
+
+/* new link */
+.previewBorder:link {
+  border-color: #e7a61a;
+}
+
+/* old link */
+.previewBorder:link {
+  border-color: #000000;
+}
+
+/* on hover or selected link */
+.previewBorder:hover, .previewBorder:active {
+  border-color: #000000;
+}
