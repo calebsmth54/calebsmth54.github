@@ -9,20 +9,21 @@ A 2D side-scrolling shooter inspired by _Contra_, _Ghost 'n Goblins_ and _Doom_.
 ### GDC 2016 WIP Teaser
 <iframe src="https://drive.google.com/file/d/0ByegvJ7suqvHRjFoTTNPbW5TM2c/preview" width="650" height="366" FrameBorder="0"></iframe>
 
-[**Lead N Brimstone Source**](https://github.com/calebsmth54/LeadNBrimstone){:target="_blank"}
-<div style="display:none;">_</div>
+[**Lead N Brimstone Source**](https://github.com/calebsmth54/LeadNBrimstone){:target="_blank"} <div style="display:none;">_</div>
 
 **Weapon Coding and Scripting:**
 
-Developed an easy to extend weapon system that fires projectiles, trace lines and timed melee attacks for players, AI and environment traps. Opened functionality up to scripting so that designers could easily prototype new weapon ideas.
+_Developed an easy to extend weapon system that fires projectiles, trace lines and timed melee attacks for players, AI and environment traps. Opened functionality up to scripting so that designers could easily prototype new weapon ideas._
 
 <iframe src="https://drive.google.com/file/d/1YyE4jJCYvN8OunKgTcyOfLvUAG3G69vW/preview" width="650" height="366" FrameBorder="0"></iframe>
 <div style="display:none;">_</div>
 
+
 *Code:* 
 
-[![Lead N Brimstone Code Sample](/assets/img/LnB/CodeSample.PNG)](/assets/img/LnB/CodeSample.PNG){:target="_blank"}<div style="display:none;">_</div> -
-[Weapon Code](https://github.com/calebsmth54/LeadNBrimstone/tree/master/LnB/Source/LnB/Weapons){:target="_blank"}<div style="display:none;">_</div>
+[![Lead N Brimstone Code Sample](/assets/img/LnB/CodeSample.PNG)](/assets/img/LnB/CodeSample.PNG){:target="_blank"} <div style="display:none;">_</div>
+
+[Weapon Code on GitHub](https://github.com/calebsmth54/LeadNBrimstone/tree/master/LnB/Source/LnB/Weapons){:target="_blank"} <div style="display:none;">_</div>
 
 *Blueprints:*
 
@@ -41,11 +42,12 @@ Developed a base AI class with several behaviors (idling, charging, attacking, e
 
 *Code:*
 
-[AI C++ Code](https://github.com/calebsmth54/LeadNBrimstone/tree/master/LnB/Source/LnB/AI){:target="_blank"}<div style="display:none;">_</div>
+[AI Code on GitHub](https://github.com/calebsmth54/LeadNBrimstone/tree/master/LnB/Source/LnB/AI){:target="_blank"}
+<div style="display:none;">_</div>
 
 *Blueprints:*
 
-[![Lead N Brimstone AI Blueprint Preview](/assets/img/LnB/AI_Blueprint0.PNG)](/assets/img/LnB/AI_Blueprint0.PNG){:target="_blank"}<div style="display:none;">_</div>
+[![Lead N Brimstone AI Blueprint Preview](/assets/img/LnB/AI_Blueprint0.PNG)](/assets/img/LnB/AI_Blueprint0.PNG){:target="_blank"} <div style="display:none;">_</div>
 
 [Part 2](/assets/img/LnB/AI_Blueprint1.PNG){:target="_blank"}<div style="display:none;">_</div> -
 [Part 3](/assets/img/LnB/AI_Blueprint2.PNG){:target="_blank"}<div style="display:none;">_</div> -
