@@ -27,7 +27,7 @@ Developed an easy to extend weapon system that fires projectiles, trace lines an
 [Weapon Code on GitHub](https://github.com/calebsmth54/LeadNBrimstone/tree/master/LnB/Source/LnB/Weapons){:target="_blank"}
 <div style="display:none;">_</div>
 
-*Blueprints:*
+*Blueprints:* 
 
 [part 1](/assets/img/LnB/BPPreview1.png){:target="_blank"} -
 [Part 2](/assets/img/LnB/BPPreview2.png){:target="_blank"} -
@@ -51,7 +51,7 @@ Developed a base AI class with several behaviors (idling, charging, attacking, e
 
 *Blueprints:*
 
-[![Lead N Brimstone AI Blueprint Preview](/assets/img/LnB/AI_Blueprint0.png)](/assets/img/LnB/AI_Blueprint0.png){:target="_blank"}
+[![Lead N Brimstone AI Blueprint Preview](/assets/img/LnB/AI_Blueprint0.png)](/assets/img/LnB/AI_Blueprint0.PNG){:target="_blank"}
 <div style="display:none;">_</div>
 
 [Part 2](/assets/img/LnB/AI_Blueprint1.png){:target="_blank"} -
