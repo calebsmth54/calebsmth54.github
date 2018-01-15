@@ -22,7 +22,7 @@ _Developed an easy to extend weapon system that fires projectiles, trace lines a
 
 *Code:* 
 
-[![Lead N Brimstone Code Sample](/assets/img/LnB/CodeSample.PNG)](/assets/img/LnB/CodeSample.PNG){:target="_blank"}
+[![Lead N Brimstone Code Sample](/assets/img/LnB/CodeSample.png)](/assets/img/LnB/CodeSample.png){:target="_blank"}
 <div style="display:none;">_</div>
 
 [Weapon Code on GitHub](https://github.com/calebsmth54/LeadNBrimstone/tree/master/LnB/Source/LnB/Weapons){:target="_blank"}
@@ -51,20 +51,20 @@ Developed a base AI class with several behaviors (idling, charging, attacking, e
 
 *Blueprints:*
 
-[![Lead N Brimstone AI Blueprint Preview](/assets/img/LnB/AI_Blueprint0.PNG)](/assets/img/LnB/AI_Blueprint0.PNG){:target="_blank"}
+[![Lead N Brimstone AI Blueprint Preview](/assets/img/LnB/AI_Blueprint0.png)](/assets/img/LnB/AI_Blueprint0.png){:target="_blank"}
 <div style="display:none;">_</div>
 
-[Part 2](/assets/img/LnB/AI_Blueprint1.PNG){:target="_blank"} -
-[Part 3](/assets/img/LnB/AI_Blueprint2.PNG){:target="_blank"} -
-[Part 4](/assets/img/LnB/AI_Blueprint3.PNG){:target="_blank"}
+[Part 2](/assets/img/LnB/AI_Blueprint1.png){:target="_blank"} -
+[Part 3](/assets/img/LnB/AI_Blueprint2.png){:target="_blank"} -
+[Part 4](/assets/img/LnB/AI_Blueprint3.png){:target="_blank"}
 <div style="display:none;">_</div>
 
 *Behavior Tree:*
 
 <iframe src="https://drive.google.com/file/d/19-fLg-bduYLE7vwJVEE7kqbCNhIdVGjT/preview" width="650" height="366" FrameBorder="0"></iframe>
 
-[Sample 1](/assets/img/LnB/AI_BT1.PNG){:target="_blank"} -
-[Sample 2](/assets/img/LnB/AI_BT2.PNG){:target="_blank"}
+[Sample 1](/assets/img/LnB/AI_BT1.png){:target="_blank"} -
+[Sample 2](/assets/img/LnB/AI_BT2.png){:target="_blank"}
 <div style="display:none;">_</div>
 
 **Animation Programming:**
@@ -72,10 +72,10 @@ Developed a base AI class with several behaviors (idling, charging, attacking, e
 <iframe src="https://drive.google.com/file/d/1yjPYCPkHi7sypdSA7rYtcmbvT3H-oTai/preview" width="650" height="366" FrameBorder="0"></iframe>
 <div style="display:none;">_</div>
 
-[part 1](/assets/img/LnB/Knight_AnimBP1.PNG){:target="_blank"} -
-[Part 2](/assets/img/LnB/Knight_AnimBP2.PNG){:target="_blank"} -
-[Part 3](/assets/img/LnB/Knight_AnimBP3.PNG){:target="_blank"} -
-[Part 4](/assets/img/LnB/Knight_AnimBP4.PNG){:target="_blank"}
+[part 1](/assets/img/LnB/Knight_AnimBP1.png){:target="_blank"} -
+[Part 2](/assets/img/LnB/Knight_AnimBP2.png){:target="_blank"} -
+[Part 3](/assets/img/LnB/Knight_AnimBP3.png){:target="_blank"} -
+[Part 4](/assets/img/LnB/Knight_AnimBP4.png){:target="_blank"}
 <div style="display:none;">_</div> 
 
 #### *Teamwork:*
