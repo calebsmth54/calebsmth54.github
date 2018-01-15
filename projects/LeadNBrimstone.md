@@ -60,14 +60,14 @@ Developed a base AI class with several behaviors (idling, charging, attacking, e
 
 *Behavior Tree:*
 
-<iframe src="https://drive.google.com/open?id=19-fLg-bduYLE7vwJVEE7kqbCNhIdVGjT/preview" width="650" height="366" FrameBorder="0"></iframe>
+<iframe src="https://drive.google.com/file/d/19-fLg-bduYLE7vwJVEE7kqbCNhIdVGjT/preview" width="650" height="366" FrameBorder="0"></iframe>
 
 [Sample 1](/assets/img/LnB/AI_BT1.PNG){:target="_blank"}<div style="display:none;">_</div> -
 [Sample 2](/assets/img/LnB/AI_BT2.PNG){:target="_blank"}<div style="display:none;">_</div>
 
 **Animation Programming:**
 
-<iframe src="https://drive.google.com/open?id=1yjPYCPkHi7sypdSA7rYtcmbvT3H-oTai/preview" width="650" height="366" FrameBorder="0"></iframe>
+<iframe src="https://drive.google.com/file/d/1yjPYCPkHi7sypdSA7rYtcmbvT3H-oTai/preview" width="650" height="366" FrameBorder="0"></iframe>
 <div style="display:none;">_</div>
 
 [part 1](/assets/img/LnB/Knight_AnimBP1.PNG){:target="_blank"}<div style="display:none;">_</div> -
