@@ -9,39 +9,68 @@ A 2D side-scrolling shooter inspired by _Contra_, _Ghost 'n Goblins_ and _Doom_.
 ### GDC 2016 WIP Teaser
 <iframe src="https://drive.google.com/file/d/0ByegvJ7suqvHRjFoTTNPbW5TM2c/preview" width="650" height="366" FrameBorder="0"></iframe>
 
-[**Lead N Brimstone Code Samples**](https://github.com/calebsmth54/LeadNBrimstone)
-
-**Animation State Machine Sample:**
-
-[![Lead N Brimstone Preview Picture](/assets/img/LnBPreview2.png)](/assets/img/LnBPreview2.png){:target="_blank"}
+[**Lead N Brimstone Source**](https://github.com/calebsmth54/LeadNBrimstone){:target="_blank"}
 <div style="display:none;">_</div>
 
-**Blueprint Scripting Sample:**
-
-[![Lead N Brimstone Preview Picture](/assets/img/BPPreview1.png)](/assets/img/BPPreview1.png){:target="_blank"}
-<div style="display:none;">_</div>
-
-[Part 2](/assets/img/BPPreview2.png) -
-[Part 3](/assets/img/BPPreview3.png) -
-[Part 4](/assets/img/BPPreview4.png) -
-[Part 5](/assets/img/BPPreview5.png) -
-[Part 6](/assets/img/BPPreview6.png)
-
-
-**AI Behavior Tree Sample:**
-
-[![Lead N Brimstone Preview Picture](/assets/img/LnBPreview3.png)](/assets/img/LnBPreview3.png){:target="_blank"}
-<div style="display:none;">_</div>
-
-#### *Weapon Mechanics:*
+**Weapon Coding and Scripting:**
 
 Developed an easy to extend weapon system that fires projectiles, trace lines and timed melee attacks for players, AI and environment traps. Opened functionality up to scripting so that designers could easily prototype new weapon ideas.
 
+<iframe src="https://drive.google.com/file/d/1YyE4jJCYvN8OunKgTcyOfLvUAG3G69vW/preview" width="650" height="366" FrameBorder="0"></iframe>
+<div style="display:none;">_</div>
 
-#### *AI:*
+*Code:*
+
+[![Lead N Brimstone Code Sample](/assets/img/LnB/CodeSample.png)](/assets/img/LnB/CodeSample.png){:target="_blank"}
+<div style="display:none;">_</div>
+
+[Weapon Code](https://github.com/calebsmth54/LeadNBrimstone/tree/master/LnB/Source/LnB/Weapons){:target="_blank"}
+<div style="display:none;">_</div>
+
+*Blueprints:*
+[part 1](/assets/img/LnB/BPPreview1.png) -
+[Part 2](/assets/img/LnB/BPPreview2.png) -
+[Part 3](/assets/img/LnB/BPPreview3.png) -
+[Part 4](/assets/img/LnB/BPPreview4.png) -
+[Part 5](/assets/img/LnB/BPPreview5.png) -
+[Part 6](/assets/img/LnB/BPPreview6.png)
+
+**AI:**
 
 Developed a base AI class with several behaviors (idling, charging, attacking, etc.) that could be reused by all of our enemy types. Integrated functionality into Blueprints and Behavior Trees so that designers could quickly prototype new enemy types with a library of behaviors.
 
+<iframe src="https://drive.google.com/file/d/1xDrt9fPpLisiSFuHXgT2pWqhPp3CveSC/preview" width="650" height="366" FrameBorder="0"></iframe>
+
+[AI C++ Code](https://github.com/calebsmth54/LeadNBrimstone/tree/master/LnB/Source/LnB/AI){:target="_blank"}
+<div style="display:none;">_</div>
+
+*Blueprints:*
+
+[![Lead N Brimstone AI Blueprint Preview](/assets/img/LnB/AI_Blueprint0.png)](/assets/img/LnB/AI_Blueprint0.png){:target="_blank"}
+<div style="display:none;">_</div>
+
+[Part 1](/assets/img/LnB/AI_Blueprint0.png) -
+[Part 2](/assets/img/LnB/AI_Blueprint1.png) -
+[Part 3](/assets/img/LnB/AI_Blueprint2.png) -
+[Part 4](/assets/img/LnB/AI_Blueprint3.png)
+
+*Behavior Tree:*
+
+<iframe src="https://drive.google.com/open?id=19-fLg-bduYLE7vwJVEE7kqbCNhIdVGjT/preview" width="650" height="366" FrameBorder="0"></iframe>
+<div style="display:none;">_</div>
+
+[Sample 1](/assets/img/LnB/AI_BT1.png)
+[Sample 2](/assets/img/LnB/AI_BT2.png)
+
+**Animation Programming:**
+
+<iframe src="https://drive.google.com/open?id=1yjPYCPkHi7sypdSA7rYtcmbvT3H-oTai/preview" width="650" height="366" FrameBorder="0"></iframe>
+<div style="display:none;">_</div>
+
+[part 1](/assets/img/LnB/Knight_AnimBP1.png) -
+[Part 2](/assets/img/LnB/Knight_AnimBP2.png) -
+[Part 3](/assets/img/LnB/Knight_AnimBP3.png) -
+[Part 4](/assets/img/LnB/Knight_AnimBP4.png)
 
 #### *Teamwork:*
 
