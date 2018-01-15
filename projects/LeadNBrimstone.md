@@ -9,7 +9,8 @@ A 2D side-scrolling shooter inspired by _Contra_, _Ghost 'n Goblins_ and _Doom_.
 ### GDC 2016 WIP Teaser
 <iframe src="https://drive.google.com/file/d/0ByegvJ7suqvHRjFoTTNPbW5TM2c/preview" width="650" height="366" FrameBorder="0"></iframe>
 
-[**Lead N Brimstone Source**](https://github.com/calebsmth54/LeadNBrimstone){:target="_blank"} <div style="display:none;">_</div>
+[**Lead N Brimstone Source**](https://github.com/calebsmth54/LeadNBrimstone){:target="_blank"} 
+<div style="display:none;">_</div>
 
 **Weapon Coding and Scripting:**
 
@@ -62,18 +63,20 @@ Developed a base AI class with several behaviors (idling, charging, attacking, e
 
 <iframe src="https://drive.google.com/file/d/19-fLg-bduYLE7vwJVEE7kqbCNhIdVGjT/preview" width="650" height="366" FrameBorder="0"></iframe>
 
-[Sample 1](/assets/img/LnB/AI_BT1.PNG){:target="_blank"}<div style="display:none;">_</div> -
-[Sample 2](/assets/img/LnB/AI_BT2.PNG){:target="_blank"}<div style="display:none;">_</div>
+[Sample 1](/assets/img/LnB/AI_BT1.PNG){:target="_blank"} -
+[Sample 2](/assets/img/LnB/AI_BT2.PNG){:target="_blank"}
+<div style="display:none;">_</div>
 
 **Animation Programming:**
 
 <iframe src="https://drive.google.com/file/d/1yjPYCPkHi7sypdSA7rYtcmbvT3H-oTai/preview" width="650" height="366" FrameBorder="0"></iframe>
 <div style="display:none;">_</div>
 
-[part 1](/assets/img/LnB/Knight_AnimBP1.PNG){:target="_blank"}<div style="display:none;">_</div> -
-[Part 2](/assets/img/LnB/Knight_AnimBP2.PNG){:target="_blank"}<div style="display:none;">_</div> -
-[Part 3](/assets/img/LnB/Knight_AnimBP3.PNG){:target="_blank"}<div style="display:none;">_</div> -
-[Part 4](/assets/img/LnB/Knight_AnimBP4.PNG){:target="_blank"}<div style="display:none;">_</div>
+[part 1](/assets/img/LnB/Knight_AnimBP1.PNG){:target="_blank"} -
+[Part 2](/assets/img/LnB/Knight_AnimBP2.PNG){:target="_blank"} -
+[Part 3](/assets/img/LnB/Knight_AnimBP3.PNG){:target="_blank"} -
+[Part 4](/assets/img/LnB/Knight_AnimBP4.PNG){:target="_blank"}
+<div style="display:none;">_</div> 
 
 #### *Teamwork:*
 
