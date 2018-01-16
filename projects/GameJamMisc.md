@@ -6,7 +6,6 @@ title: Other Games and Misc Projects
 ## (June to October 2017)
 ### Web Developer/Designer (MongoDB - NODEjs - Javascript)
 
-### Game Description
 A simple web-based trivia card game I am developing for a client using MongoDB and NODEjs for the backend and JQuery for the front end.
 
 
@@ -15,9 +14,6 @@ A simple web-based trivia card game I am developing for a client using MongoDB a
 ### Game Programmer (Unreal - C++ - Blueprint Scripting)
 
 Worked on several smaller games including:
-
-[![Haunted Mansion Generator Preview Image](/assets/img/MiscGames/HMGPreview.png)](/assets/img/MiscGames/HMGPreview.png){:target="_blank"}
-<div style="display:none;">_</div>
 
 [![Haunted Mansion Generator Preview Image](/assets/img/MiscGames/HMGPreview.png)](/assets/img/MiscGames/HMGPreview.png){:target="_blank"}
 <div style="display:none;">_</div>
