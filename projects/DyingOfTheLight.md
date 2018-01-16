@@ -35,7 +35,7 @@ Overall this was an incredibly experience and I am very proud that we were able 
 [Handle Melee Attacks Part 2](/assets/img/LD/BP_BattleSystem16_HandleMeleeAttacks2.PNG){:target="_blank"} -
 [Handle Melee Attacks Part 3](/assets/img/LD/BP_BattleSystem18_HandleMeleeAttacks3.PNG){:target="_blank"} -
 [Handle Melee Attacks Part 4](/assets/img/LD/BP_BattleSystem19_HandleMeleeAttacks4.PNG){:target="_blank"} -
-[Handle Melee Attacks Part 4](/assets/img/LD/BP_BattleSystem20_HandleMeleeAttacks5.PNG){:target="_blank"} -
+[Handle Melee Attacks Part 5](/assets/img/LD/BP_BattleSystem20_HandleMeleeAttacks5.PNG){:target="_blank"}
 <div style="display:none;">_</div>
 
 *Player Blueprint:*
@@ -91,5 +91,5 @@ Overall this was an incredibly experience and I am very proud that we were able 
 
 [Choke Point to Delay Player Progression](/assets/img/LD/LevelScripting2.PNG){:target="_blank"} -
 [Narration and Level Events Part 1](/assets/img/LD/LevelScripting3.PNG){:target="_blank"} -
-[Narration and Level Events Part 2](/assets/img/LD/BP_Action3_ActionFinished.PNG){:target="_blank"}
+[Narration and Level Events Part 2](/assets/img/LD/LevelScripting4.PNG){:target="_blank"}
 <div style="display:none;">_</div>
