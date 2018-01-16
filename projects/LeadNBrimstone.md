@@ -64,7 +64,7 @@ Developed a base AI class with several behaviors (idling, charging, attacking, e
 [![Lead N Brimstone AI Behavior Tree Preview](/assets/img/LnB/AI_BT1.png)](/assets/img/LnB/AI_BT1.png){:target="_blank"}
 <div style="display:none;">_</div>
 
-[Sample 2](/assets/img/LnB/AI_BT2.png){:target="_blank"}
+[Part 2](/assets/img/LnB/AI_BT2.png){:target="_blank"}
 <div style="display:none;">_</div>
 
 **Animation Scripting**

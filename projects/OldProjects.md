@@ -3,11 +3,10 @@ title: Old Personal Projects
 ---
 
 ## Brick Breaker!
-
+##(2015)
 ### Game Programmer (Phaser - Javascript)
-(2015)
 
-[![Brick Breaker Preview Image](/assets/img/BBPreview.png)](/assets/img/BBPreview.png){:target="_blank"}
+[![Brick Breaker Preview Image](/assets/img/OldGames/BBPreview.png)](/assets/img/OldGames/BBPreview.png){:target="_blank"}
 <div style="display:none;">_</div>
 
 [Play Here!](/phaser-games/BrickBreaker/brickbreaker.html)
@@ -17,12 +16,12 @@ title: Old Personal Projects
 ### Game Description
 A simple breakout clone I developed over a short amount of time to learn Javascript and Phaser.
 
+
 ## Pac-Man Clone
-
+## (2006)
 ### Programmer (SDL - C++)
-(2006)
 
-[![Pacman Clone Preview Image](/assets/img/PMPreview.PNG)](/assets/img/PMPreview.PNG){:target="_blank"}
+[![Pacman Clone Preview Image](/assets/img/OldGames/PMPreview.PNG)](/assets/img/OldGames/PMPreview.PNG){:target="_blank"}
 <div style="display:none;">_</div>
 
 ### Game Description
