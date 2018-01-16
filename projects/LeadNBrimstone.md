@@ -4,7 +4,7 @@ title: Lead N Brimstone
 ## (May 2016 to April 2017)
 ### Game Programmer (C++ - Blueprint Scripting - Unreal Editor - Perforce)
 
-_A 2D side-scrolling shooter inspired by _Contra_, _Ghost 'n Goblins_ and _Doom_. Players take control of a knight fighting through a fantasy world being invaded by a demon army._
+A 2D side-scrolling shooter inspired by _Contra_, _Ghost 'n Goblins_ and _Doom_. Players take control of a knight fighting through a fantasy world being invaded by a demon army.
 
 ### GDC 2016 WIP Teaser
 <iframe src="https://drive.google.com/file/d/0ByegvJ7suqvHRjFoTTNPbW5TM2c/preview" width="650" height="366" FrameBorder="0"></iframe>
@@ -12,7 +12,7 @@ _A 2D side-scrolling shooter inspired by _Contra_, _Ghost 'n Goblins_ and _Doom_
 [**Lead N Brimstone Source**](https://github.com/calebsmth54/LeadNBrimstone){:target="_blank"} 
 <div style="display:none;">_</div>
 
-**Weapon Coding and Scripting:**
+**Weapon Coding and Scripting**
 
 Developed an easy to extend weapon system that fires projectiles, trace lines and timed melee attacks for players, AI and environment traps. Opened functionality up to scripting so that designers could easily prototype new weapon ideas.
 
@@ -37,7 +37,7 @@ Developed an easy to extend weapon system that fires projectiles, trace lines an
 [Part 6](/assets/img/LnB/BPPreview6.png){:target="_blank"} 
 <div style="display:none;">_</div>
 
-**AI:**
+**AI Coding and Scripting**
 
 Developed a base AI class with several behaviors (idling, charging, attacking, etc.) that could be reused by all of our enemy types. Integrated functionality into Blueprints and Behavior Trees so that designers could quickly prototype new enemy types with a library of behaviors.
 
@@ -67,7 +67,7 @@ Developed a base AI class with several behaviors (idling, charging, attacking, e
 [Sample 2](/assets/img/LnB/AI_BT2.png){:target="_blank"}
 <div style="display:none;">_</div>
 
-**Animation Programming:**
+**Animation Scripting**
 
 <iframe src="https://drive.google.com/file/d/1yjPYCPkHi7sypdSA7rYtcmbvT3H-oTai/preview" width="650" height="366" FrameBorder="0"></iframe>
 <div style="display:none;">_</div>
@@ -79,7 +79,7 @@ Developed a base AI class with several behaviors (idling, charging, attacking, e
 [Part 4](/assets/img/LnB/Knight_AnimBP4.png){:target="_blank"}
 <div style="display:none;">_</div> 
 
-#### *Teamwork:*
+**Teamwork**
 
 Helped transition new and old team members from Unity to Unreal.
 
