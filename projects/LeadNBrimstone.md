@@ -92,10 +92,12 @@ This is only one character that I worked on out of several. It was a unique chal
 
 **Teamwork**
 
-Helped transition new and old team members from Unity to Unreal.
-
-Managed a Perforce repository for a distributed team of in office and remote personnel.
+Worked with designers on tuning mechanics and turning vision of game into functioning game mechanics.
 
 Worked with artists to import assets into engine and get them running with Unreal's animation tools (Animation State Machine, Aim Offset, etc.)
 
-Worked with designers on turning vision of game into functioning game mechanics.
+Assisted with any technical challenge team members encountered.
+
+Helped transition new and old team members from Unity to Unreal.
+
+Managed a Perforce repository for a distributed team of in office and remote personnel.
