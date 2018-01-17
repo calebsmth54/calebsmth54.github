@@ -1,5 +1,5 @@
 ---
-title: Projects and Experience
+title: Portfolio
 ---
 
 ## **The Dying of the Light**
@@ -8,7 +8,7 @@ title: Projects and Experience
 ## **Lead N Brimstone** 
 <a href="/projects/LeadNBrimstone"><img src="/assets/img/LnBCover.PNG" style="max-width:300;max-height:300;" alt="Lead N Brimstone Project Page Preview" class="previewBorder" /></a>
 
-## **Other Games and Misc Projects** 
+## **Misc Game Projects** 
 <a href="/projects/GameJamMisc"><img src="/assets/img/MiscProjPreview.PNG" style="max-width:300;max-height:300;" alt="Other Projects and Experience" class="previewBorder" /></a>
 
 ## **Older Projects** 
