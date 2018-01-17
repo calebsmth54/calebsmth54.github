@@ -4,9 +4,11 @@ title: The Dying of the Light
 ## Game Jam (July 2017)
 ### Game Programmer & Designer (Blueprint Scripting - Unreal Editor)
 
-A project me and a group of others developed for Ludum Dare /#39 with the theme "Running out of Power". Rather than taking this prompt literally and developing a game about battery power, our team collectively decided on a hero who would continually lose abilities over the course of the game. The combat was inspired by _Superbrothers: Sword & Sorcery_ with a simple click the ability interface and timing based combat. AI runs on a simple interval based action state, with random rolling for Idle or Attack States. Players can attack, block, heal and quake (do massive damage) to enemies, but as mentioned above, they lose each of these abilities over the course of the game until they are left defenseless against their final foe.
+A project me and a group of others developed at Ludum Dare 39 for the theme "Running out of Power". Rather than taking this prompt literally and developing a game about battery power, our team collectively decided on a hero who would continually lose abilities over the course of the game.
 
-Overall this was an incredibly experience and I am very proud that we were able to achieve where others traditionally fail and create a complete, narrative based experience with a unique combat system in only 72 hours.
+Before the project began I decided to code it entirely in Blueprints. This was due to a number of reasons, including quick feature turn around, allowing a member new to UE4 to contribute, and my curiosity of the best workflow for feature creation in UE4. Overall I was surprised at how quickly and complex the code became. I think for this project it was the right call, but on a proper project I wouldn't recommend it.
+
+Overall this was an incredible experience and I am very proud that we were able to succeed in creating a narrative based experience with a fun combat mechanic in only 72 hours.
 
 ### Let's Play by Pyc K.
 <iframe src="https://www.youtube.com/embed/W37CbVgPvhA?rel=0" width="650" height="366" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -15,12 +17,13 @@ Overall this was an incredibly experience and I am very proud that we were able 
 [Github Page](https://github.com/calebsmth54/LDJam_39){:target="_blank"}
 <div style="display:none;">_</div>
 
-**Battle System:**
 
-*Battle System Blueprint:* 
+**Battle System:**
 
 [![Event Graph](/assets/img/LD/BP_BattleSystem0_EventGraph.PNG)](/assets/img/LD/BP_BattleSystem0_EventGraph.PNG){:target="_blank"}
 <div style="display:none;">_</div>
+
+The battle system is easily the most complex script I wrote for the project. It handles numerous tasks, including setting up the visuals for the battle area (lighting, background, enemy and player), resolving player/enemy actions, and offering notifications for blueprints to poll the state of the battle. Inspired by the combat in _Superbrothers: Sword & Sorcery_, combat happens in real time. To resolve a block, the combat system checks whether the swing happened during the blocks window, and ignores it if it is.
 
 [Functions & Variables](/assets/img/LD/BP_BattleSystem0_VarsFuncs.PNG){:target="_blank"} -
 [Event Graph Part 2](/assets/img/LD/BP_BattleSystem2_EventGraph2.PNG){:target="_blank"} -
@@ -38,10 +41,13 @@ Overall this was an incredibly experience and I am very proud that we were able 
 [Handle Melee Attacks Part 5](/assets/img/LD/BP_BattleSystem20_HandleMeleeAttacks5.PNG){:target="_blank"}
 <div style="display:none;">_</div>
 
-*Player Blueprint:*
+
+**Player Blueprint:**
 
 [![Event Graph](/assets/img/LD/Player/BP_Player1.PNG)](/assets/img/LD/Player/BP_Player1.PNG){:target="_blank"}
 <div style="display:none;">_</div>
+
+There's nothing terribly unique here. This character BP uses UE4's default movement components. You will notice that the character has several components (Attack, Block, Heal, Quake). This are inherited from the Action Component script. More on that below.
 
 [Components](/assets/img/LD/Player/BP_Player2.PNG){:target="_blank"} -
 [Functions](/assets/img/LD/Player/BP_Player3.PNG){:target="_blank"} -
@@ -53,10 +59,13 @@ Overall this was an incredibly experience and I am very proud that we were able 
 [Combat Events](/assets/img/LD/Player/BP_Player8.PNG){:target="_blank"}
 <div style="display:none;">_</div>
 
-*UI Blueprints:*
+
+**UI Blueprints:**
 
 [![Event Graph](/assets/img/LD/Player/HUD1.PNG)](/assets/img/LD/Player/HUD1.PNG){:target="_blank"}
 <div style="display:none;">_</div>
+
+This is where the meat of the player's interaction with the game takes place. The UI informs the player of their health, the enemy's health and their available actions. These buttons are updated with cooldown info after the player has used an associated action. Over the course of the game, some of the buttons are disabled as the player character loses strength.
 
 [Functions](/assets/img/LD/Player/HUD2.PNG){:target="_blank"} -
 [Variables](/assets/img/LD/Player/HUD3.PNG){:target="_blank"} -
@@ -67,10 +76,13 @@ Overall this was an incredibly experience and I am very proud that we were able 
 [Event Graph Part 4](/assets/img/LD/Player/HUD8.PNG){:target="_blank"}
 <div style="display:none;">_</div>
 
-*Action Component Blueprint:*
+
+**Action Component Blueprint:**
 
 [![Event Graph](/assets/img/LD/BP_Action1_StartAction.PNG)](/assets/img/LD/BP_Action1_StartAction.PNG){:target="_blank"}
 <div style="display:none;">_</div>
+
+This class drives both player and enemy actions. It provides a simple data driven interface to tweak the length, active window and other such timing properties of an action. Using this component I was able to easily hookup player and enemy actions and their associated effects without copying a lot of code over and over. This little component turned about to be a life saver on the project, and the small amount of investment time I put into creating it paid off well.
 
 [Functions and Variables](/assets/img/LD/BP_Action2_VariableFunctionList.PNG){:target="_blank"} -
 [Start Action](/assets/img/LD/BP_Action1_StartAction.PNG){:target="_blank"} -
@@ -84,7 +96,10 @@ Overall this was an incredibly experience and I am very proud that we were able 
 [Is Cooling Down?](/assets/img/LD/BP_Action10_CoolDownFinished.PNG){:target="_blank"}
 <div style="display:none;">_</div>
 
-*Level Editing and Scripting:*
+
+**Level Editing and Scripting:**
+
+By the end of the project we had a level filled with static props and other environment art with a general idea of the pathway the player would take through the world. I came in and placed all of the enemy encounters, defined the player level boundaries, scripted all of the narration and music triggers, and tweaked the level's geometry to extend gameplay for narration length and cue the player to their destination.
 
 [![Event Graph](/assets/img/LD/LevelScripting1.PNG)](/assets/img/LD/LevelScripting1.PNG){:target="_blank"}
 <div style="display:none;">_</div>

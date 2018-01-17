@@ -94,7 +94,7 @@ This is only one character that I worked on out of several. It was a unique chal
 
 Worked with designers on tuning mechanics and turning vision of game into functioning game mechanics.
 
-Worked with artists to import assets into engine and get them running with Unreal's animation tools (Animation State Machine, Aim Offset, etc.)
+Worked with artists to import assets into engine, hook them up with gameplay and tweak animations to match gameplay needs.
 
 Assisted with any technical challenge team members encountered.
 
