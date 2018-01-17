@@ -10,7 +10,7 @@ A simple web-based trivia card game I am developing for a client using MongoDB a
 
 
 ## Haunted Mansion Generator(WIP)
-##(2016 to 2017)
+## (2016 to 2017)
 ### Game Programmer (Unreal - C++ - Blueprint Scripting)
 
 Worked on several smaller games including:
@@ -23,12 +23,13 @@ Worked on several smaller games including:
 ## (2017 Game Jam)
 ### Game Programmer (Unity - C#)
 
-A two player bumper cart style battle game where players would battle each others armies. Made with Unity. Developed art assets and all of the code.
+A two player bumper cart style battle game where players would battle each other's armies. Made with Unity. Developed art assets and all of the code.
 
 [![War of the Broses Preview](/assets/img/MiscGames/WOBPreview.png)](/assets/img/MiscGames/WOBPreview.png){:target="_blank"}
 <div style="display:none;">_</div>
 
-[Code on Github](https://github.com/calebsmth54/War-of-the-Broses)
+[Code on Github](https://github.com/calebsmth54/War-of-the-Broses){:target="_blank"}
+<div style="display:none;">_</div>
 
 
 ## Possessor
@@ -41,10 +42,11 @@ A small possession mechanic prototype that allowed players to take control of ot
 <div style="display:none;">_</div>
 
 
-## Maze Scifi Game
+## Scifi Maze Game
 ## (2016 Game Jam)
 ### Game Programmer (Unity - C#)
 
 Used player voice commands to repel or attract wandering alien enemies made with Unity. Worked with Waden Kane team and developed level scripts, voice system and opening menu screen.
 
-[Code on Github](https://github.com/moariqplz/Country-Men-GameJam)
+[Code on Github](https://github.com/moariqplz/Country-Men-GameJam){:target="_blank"}
+<div style="display:none;">_</div>

@@ -3,15 +3,17 @@ title: Old Personal Projects
 ---
 
 ## Brick Breaker!
-##(2015)
+## (2015)
 ### Game Programmer (Phaser - Javascript)
 
 [![Brick Breaker Preview Image](/assets/img/OldGames/BBPreview.png)](/assets/img/OldGames/BBPreview.png){:target="_blank"}
 <div style="display:none;">_</div>
 
-[Play Here!](/phaser-games/BrickBreaker/brickbreaker.html)
+[Play Here!](/phaser-games/BrickBreaker/brickbreaker.html){:target="_blank"}
+<div style="display:none;">_</div>
 
-[Code on Github](https://github.com/calebsmth54/BrickBreaker)
+[Code on Github](https://github.com/calebsmth54/BrickBreaker){:target="_blank"}
+<div style="display:none;">_</div>
 
 ### Game Description
 A simple breakout clone I developed over a short amount of time to learn Javascript and Phaser.
@@ -19,7 +21,7 @@ A simple breakout clone I developed over a short amount of time to learn Javascr
 
 ## Pac-Man Clone
 ## (2006)
-### Programmer (SDL - C++)
+### Game Programmer (SDL - C++)
 
 [![Pacman Clone Preview Image](/assets/img/OldGames/PMPreview.PNG)](/assets/img/OldGames/PMPreview.PNG){:target="_blank"}
 <div style="display:none;">_</div>
@@ -31,7 +33,7 @@ One of my earlier projects. An almost one to one clone of the original _Pac-Man_
 ## Source Engine Modding
 
 ### Level Designer/Programmer (Source Engine - Hammer Editor - C++)
-(2006 to 2010)
+(2004 to 2010)
 
 ### Game Description
 Developed numerous maps with a focus on building level geometry, setting atmospheric tone with lighting and effects, and creating scripted level events. Made minor code modifications to weapon, character and game mode classes. Worked collaboratively with other modders in the Interlopers community.
