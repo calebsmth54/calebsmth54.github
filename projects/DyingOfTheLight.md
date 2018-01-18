@@ -13,7 +13,7 @@ Overall this was an incredible experience and I am very proud that we were able 
 ### Let's Play by Pyc K.
 <iframe src="https://www.youtube.com/embed/W37CbVgPvhA?rel=0" width="650" height="366" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-[Project Page](https://ldjam.com/events/ludum-dare/39/$37997){:target="_blank"} - 
+[Ludum Dare Project Page](https://ldjam.com/events/ludum-dare/39/$37997){:target="_blank"} - 
 [Github Page](https://github.com/calebsmth54/LDJam_39){:target="_blank"}
 <div style="display:none;">_</div>
 
