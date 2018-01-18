@@ -16,22 +16,20 @@ A 2D side-scrolling shooter inspired by _Contra_, _Ghost 'n Goblins_ and _Doom_.
 
 Developed an easy to extend weapon system that fires projectiles, trace lines and timed melee attacks for players, AI and environment traps. Opened functionality up to scripting so that designers could easily prototype new weapon ideas.
 
-<iframe src="https://drive.google.com/file/d/1YyE4jJCYvN8OunKgTcyOfLvUAG3G69vW/preview" width="650" height="366" FrameBorder="0"></iframe>
-
 
 *Code:* 
 
 [![Lead N Brimstone Code Sample](/assets/img/LnB/CodeSample.png)](/assets/img/LnB/CodeSample.png){:target="_blank"}
 <div style="display:none;">_</div>
 
-Three classes exist in C++ code. BaseWeapon provides some Blueprint events as well as a data driven design that controls fire rate, fire type, projectile type, etc. The other two classes are ShootWeapon, which provides implementation for projectile and ray-trace fire types, and MeleeWeapon, which implements a simple melee implementation.
+Three classes exist in C++ code. [ABaseWeapon](https://github.com/calebsmth54/LeadNBrimstone/blob/master/LnB/Source/LnB/Weapons/BaseWeapon.h){:target="_blank"}<div style="display:none;">_</div> provides some Blueprint events as well as a data driven design that controls fire rate, fire type, projectile type, etc. The other two classes are [AShootWeapon](https://github.com/calebsmth54/LeadNBrimstone/blob/master/LnB/Source/LnB/Weapons/ShootWeapon.h){:target="_blank"}<div style="display:none;">_</div>, which provides implementation for projectile and ray-trace fire types, and [AMeleeWeapon](https://github.com/calebsmth54/LeadNBrimstone/blob/master/LnB/Source/LnB/Weapons/MeleeWeapon.cpp){:target="_blank"}<div style="display:none;">_</div>, which implements a simple melee implementation.
 
-[Weapon Code on GitHub](https://github.com/calebsmth54/LeadNBrimstone/tree/master/LnB/Source/LnB/Weapons){:target="_blank"}
-<div style="display:none;">_</div>
 
 *Blueprints:* 
 
-The above video shows a Blueprint script inheriting from the ShootWeapon class. It uses several events to trigger appropriate audio and effects.
+<iframe src="https://drive.google.com/file/d/1YyE4jJCYvN8OunKgTcyOfLvUAG3G69vW/preview" width="650" height="366" FrameBorder="0"></iframe>
+
+The above video shows a Blueprint script inheriting from the AShootWeapon class. It uses several events to trigger appropriate audio and effects.
 
 [part 1](/assets/img/LnB/BPPreview1.png){:target="_blank"} -
 [Part 2](/assets/img/LnB/BPPreview2.png){:target="_blank"} -
@@ -41,19 +39,15 @@ The above video shows a Blueprint script inheriting from the ShootWeapon class. 
 [Part 6](/assets/img/LnB/BPPreview6.png){:target="_blank"} 
 <div style="display:none;">_</div>
 
+
 **AI Coding and Scripting**
 
 Developed a base AI class with several behaviors (idling, charging, attacking, etc.) that could be reused by all of our enemy types. Integrated functionality into Blueprints and Behavior Trees so that designers could quickly prototype new enemy types with a library of behaviors.
 
-<iframe src="https://drive.google.com/file/d/1xDrt9fPpLisiSFuHXgT2pWqhPp3CveSC/preview" width="650" height="366" FrameBorder="0"></iframe>
-
 
 *Code:*
 
-[AI Code on GitHub](https://github.com/calebsmth54/LeadNBrimstone/tree/master/LnB/Source/LnB/AI){:target="_blank"}
-<div style="display:none;">_</div>
-
-The code consists of several parts. The BaseAIController acts as a liason between the BaseEnemy class and the Behavior Tree. The BaseEnemy class acts as a repository for reuseable behaviors for all enemies, as well as controlling some shared properties (attack timing, idle waypoint traversal, etc.). Finally there are custom behavior nodes that can be mix-and-matched to trigger enemy behaviors.
+The code consists of several parts. The [ABaseAIController](https://github.com/calebsmth54/LeadNBrimstone/blob/master/LnB/Source/LnB/AI/BaseAIController.h){:target="_blank"}<div style="display:none;">_</div> acts as a liason between the BaseEnemy class and the Behavior Tree. The [ABaseEnemy](https://github.com/calebsmth54/LeadNBrimstone/blob/master/LnB/Source/LnB/AI/BaseEnemy.h){:target="_blank"}<div style="display:none;">_</div> class acts as a repository for reuseable behaviors for all enemies, as well as controlling some shared properties. Finally there are several custom [Behavior Tree Task](https://github.com/calebsmth54/LeadNBrimstone/tree/master/LnB/Source/LnB/AI/Tasks){:target="_blank"}<div style="display:none;">_</div> that can be used for AI scripting.
 
 *Blueprints:*
 
@@ -77,18 +71,13 @@ All AI is driven by reuseable components in the Behavior Tree. Here you can see 
 [Part 2](/assets/img/LnB/AI_BT2.png){:target="_blank"}
 <div style="display:none;">_</div>
 
+
 **Animation Scripting**
 
-This is only one character that I worked on out of several. It was a unique challenge because I was unfamiliar with a lot of animation practices. I lengthened, extended and cut together animations in order to prototype our animators' work and integrate it into the gameplay. I used several tools provided by Persona, including Animation State Machines, Animation BPS, Blending Nodes, Poses and Aim Offsets.
+Used UE4 animation tools and scripts to hook up several enemy characters and the player character assets. Worked with lead artist to ensure assets were imported correctly in engine and in gameplay.
 
 <iframe src="https://drive.google.com/file/d/1yjPYCPkHi7sypdSA7rYtcmbvT3H-oTai/preview" width="650" height="366" FrameBorder="0"></iframe>
 <div style="display:none;">_</div>
-
-[Player Animation BP Part 1](/assets/img/LnB/Knight_AnimBP1.png){:target="_blank"} -
-[Player Animation BP Part 2](/assets/img/LnB/Knight_AnimBP2.png){:target="_blank"} -
-[Player Animation BP Part 3](/assets/img/LnB/Knight_AnimBP3.png){:target="_blank"} -
-[Player Animation BP Part 4](/assets/img/LnB/Knight_AnimBP4.png){:target="_blank"}
-<div style="display:none;">_</div> 
 
 **Teamwork**
 
