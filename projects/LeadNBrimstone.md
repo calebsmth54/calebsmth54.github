@@ -22,8 +22,8 @@ Developed an easy to extend weapon system that fires projectiles, trace lines an
 [![Lead N Brimstone Code Sample](/assets/img/LnB/CodeSample.png)](/assets/img/LnB/CodeSample.png){:target="_blank"}
 <div style="display:none;">_</div>
 
-Three classes exist in C++ code. [ABaseWeapon](https://github.com/calebsmth54/LeadNBrimstone/blob/master/LnB/Source/LnB/Weapons/BaseWeapon.h){:target="_blank"}<div style="display:none;">_</div> provides some Blueprint events as well as a data driven design that controls fire rate, fire type, projectile type, etc. The other two classes are [AShootWeapon](https://github.com/calebsmth54/LeadNBrimstone/blob/master/LnB/Source/LnB/Weapons/ShootWeapon.h){:target="_blank"}<div style="display:none;">_</div>, which provides implementation for projectile and ray-trace fire types, and [AMeleeWeapon](https://github.com/calebsmth54/LeadNBrimstone/blob/master/LnB/Source/LnB/Weapons/MeleeWeapon.cpp){:target="_blank"}<div style="display:none;">_</div>, which implements a simple melee implementation.
-
+Three classes exist in C++ code. [ABaseWeapon](https://github.com/calebsmth54/LeadNBrimstone/blob/master/LnB/Source/LnB/Weapons/BaseWeapon.h){:target="_blank"} provides some Blueprint events as well as a data driven design that controls fire rate, fire type, projectile type, etc. The other two classes are [AShootWeapon](https://github.com/calebsmth54/LeadNBrimstone/blob/master/LnB/Source/LnB/Weapons/ShootWeapon.h){:target="_blank"}, which provides implementation for projectile and ray-trace fire types, and [AMeleeWeapon](https://github.com/calebsmth54/LeadNBrimstone/blob/master/LnB/Source/LnB/Weapons/MeleeWeapon.cpp){:target="_blank"}, which implements a simple melee implementation.
+<div style="display:none;">_</div>
 
 *Blueprints:* 
 
@@ -47,7 +47,8 @@ Developed a base AI class with several behaviors (idling, charging, attacking, e
 
 *Code:*
 
-The code consists of several parts. The [ABaseAIController](https://github.com/calebsmth54/LeadNBrimstone/blob/master/LnB/Source/LnB/AI/BaseAIController.h){:target="_blank"}<div style="display:none;">_</div> acts as a liason between the BaseEnemy class and the Behavior Tree. The [ABaseEnemy](https://github.com/calebsmth54/LeadNBrimstone/blob/master/LnB/Source/LnB/AI/BaseEnemy.h){:target="_blank"}<div style="display:none;">_</div> class acts as a repository for reuseable behaviors for all enemies, as well as controlling some shared properties. Finally there are several custom [Behavior Tree Task](https://github.com/calebsmth54/LeadNBrimstone/tree/master/LnB/Source/LnB/AI/Tasks){:target="_blank"}<div style="display:none;">_</div> that can be used for AI scripting.
+The code consists of several parts. The [ABaseAIController](https://github.com/calebsmth54/LeadNBrimstone/blob/master/LnB/Source/LnB/AI/BaseAIController.h){:target="_blank"} acts as a liason between the BaseEnemy class and the Behavior Tree. The [ABaseEnemy](https://github.com/calebsmth54/LeadNBrimstone/blob/master/LnB/Source/LnB/AI/BaseEnemy.h){:target="_blank"} class acts as a repository for reuseable behaviors for all enemies, as well as controlling some shared properties. Finally there are several custom [Behavior Tree Task](https://github.com/calebsmth54/LeadNBrimstone/tree/master/LnB/Source/LnB/AI/Tasks){:target="_blank"} that can be used for AI scripting.
+<div style="display:none;">_</div>
 
 *Blueprints:*
 

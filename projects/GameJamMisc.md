@@ -2,22 +2,17 @@
 title: Other Games and Misc Projects
 ---
 
-## Trivia Card Game
-## (June to October 2017)
-### Web Developer/Designer (MongoDB - NODEjs - Javascript)
-
-A simple web-based trivia card game I am developing for a client using MongoDB and NODEjs for the backend and JQuery for the front end.
-
-
 ## Haunted Mansion Generator(WIP)
 ## (2016 to 2017)
 ### Game Programmer (Unreal - C++ - Blueprint Scripting)
 
-Worked on several smaller games including:
+A small prototype I did for generating 2d grid maps made up of templated rooms. Very early WIP prototype.
 
 [![Haunted Mansion Generator Preview Image](/assets/img/MiscGames/HMGPreview.png)](/assets/img/MiscGames/HMGPreview.png){:target="_blank"}
 <div style="display:none;">_</div>
 
+[Code on Github](https://github.com/calebsmth54/HMG){:target="_blank"}
+<div style="display:none;">_</div>
 
 ## War of the Broses
 ## (2017 Game Jam)
