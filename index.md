@@ -1,6 +1,5 @@
 ---
 title: Portfolio
-permalink: /portfolio/
 ---
 
 ## **The Dying of the Light**
