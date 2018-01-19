@@ -4,7 +4,7 @@ title: The Dying of the Light
 ## Game Jam (July 2017)
 ### Game Programmer & Designer (Blueprint Scripting - Unreal Editor)
 
-A project me and a group of others developed for the Ludum Dare 39 competitiont with the theme "Running out of Power".
+A project me and a group of others developed for the Ludum Dare 39 competitiontheme "Running out of Power".
 
 ### Let's Play by Pyc K.
 <iframe src="https://www.youtube.com/embed/W37CbVgPvhA?rel=0" width="650" height="366" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -37,7 +37,7 @@ The battle system is easily the most complex script I wrote for the project. It 
 [Handle Melee Attacks Part 5](/assets/img/LD/BP_BattleSystem20_HandleMeleeAttacks5.PNG){:target="_blank"}
 <div style="display:none;">_</div>
 
-
+	
 **Player Blueprint:**
 
 [![Event Graph](/assets/img/LD/Player/BP_Player1.PNG)](/assets/img/LD/Player/BP_Player1.PNG){:target="_blank"}
@@ -89,7 +89,7 @@ This class drives both player and enemy actions. It provides a simple data drive
 [Is Cooling Down?](/assets/img/LD/BP_Action7_IsCoolingDown.PNG){:target="_blank"} -
 [Get Time](/assets/img/LD/BP_Action8_GetTime.PNG){:target="_blank"} -
 [Get Cooldown Time](/assets/img/LD/BP_Action9_GetCoolDownTime.PNG){:target="_blank"} -
-[Is Cooling Down?](/assets/img/LD/BP_Action10_CoolDownFinished.PNG){:target="_blank"}
+[On Cooldown Finished](/assets/img/LD/BP_Action10_CoolDownFinished.PNG){:target="_blank"}
 <div style="display:none;">_</div>
 
 
