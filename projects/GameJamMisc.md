@@ -18,7 +18,7 @@ A small prototype I did for generating 2d grid maps made up of templated rooms. 
 ## (2017 Game Jam)
 ### Game Programmer (Unity - C#)
 
-A two player bumper cart style battle game where players would battle each other's armies. Made with Unity. Developed art assets and all of the code.
+A two player bumper cart style battle game where players would battle each other's armies. Made with Unity. Developed all of the art assets and code.
 
 [![War of the Broses Preview](/assets/img/MiscGames/WOBPreview.png)](/assets/img/MiscGames/WOBPreview.png){:target="_blank"}
 <div style="display:none;">_</div>
@@ -26,22 +26,11 @@ A two player bumper cart style battle game where players would battle each other
 [Code on Github](https://github.com/calebsmth54/War-of-the-Broses){:target="_blank"}
 <div style="display:none;">_</div>
 
-
-## Possessor
-## (2017 Game Jam)
-### Game Programmer (Unreal - Blueprint Scripting)
-
-A small possession mechanic prototype that allowed players to take control of other characters and objects in the world to solve puzzles. Made with UE4. Developed entirely with Blueprints.
-
-[![Possessor Preview Picture](/assets/img/MiscGames/PossPreview.gif)](/assets/img/MiscGames/PossPreview.gif){:target="_blank"}
-<div style="display:none;">_</div>
-
-
-## Scifi Maze Game
+## Country Men Game Jam
 ## (2016 Game Jam)
 ### Game Programmer (Unity - C#)
 
-Used player voice commands to repel or attract wandering alien enemies made with Unity. Worked with Waden Kane team and developed level scripts, voice system and opening menu screen.
+Helped code system that allowed player voice commands to repel or attract wandering aliens in maze. Worked with Waden Kane team and developed level scripts, voice capture and playback system and opening menu UI and level background.
 
 [Code on Github](https://github.com/moariqplz/Country-Men-GameJam){:target="_blank"}
 <div style="display:none;">_</div>

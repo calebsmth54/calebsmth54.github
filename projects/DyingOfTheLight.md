@@ -4,11 +4,7 @@ title: The Dying of the Light
 ## Game Jam (July 2017)
 ### Game Programmer & Designer (Blueprint Scripting - Unreal Editor)
 
-A project me and a group of others developed at Ludum Dare 39 for the theme "Running out of Power". Rather than taking this prompt literally and developing a game about battery power, our team collectively decided on a hero who would continually lose abilities over the course of the game.
-
-Before the project began I decided to code it entirely in Blueprints. This was due to a number of reasons, including quick feature turn around, allowing a member new to UE4 to contribute, and my curiosity of the best workflow for feature creation in UE4. Overall I was surprised at how quickly and complex the code became. I think for this project it was the right call, but on a proper project I wouldn't recommend it.
-
-Overall this was an incredible experience and I am very proud that we were able to succeed in creating a narrative based experience with a fun combat mechanic in only 72 hours.
+A project me and a group of others developed for the Ludum Dare 39 competitiont with the theme "Running out of Power".
 
 ### Let's Play by Pyc K.
 <iframe src="https://www.youtube.com/embed/W37CbVgPvhA?rel=0" width="650" height="366" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -23,7 +19,7 @@ Overall this was an incredible experience and I am very proud that we were able 
 [![Event Graph](/assets/img/LD/BP_BattleSystem0_EventGraph.PNG)](/assets/img/LD/BP_BattleSystem0_EventGraph.PNG){:target="_blank"}
 <div style="display:none;">_</div>
 
-The battle system is easily the most complex script I wrote for the project. It handles numerous tasks, including setting up the visuals for the battle area (lighting, background, enemy and player), resolving player/enemy actions, and offering notifications for blueprints to poll the state of the battle. Inspired by the combat in _Superbrothers: Sword & Sorcery_, combat happens in real time. To resolve a block, the combat system checks whether the swing happened during the blocks window, and ignores it if it is.
+The battle system is easily the most complex script I wrote for the project. It handles numerous tasks, including setting up the visuals for the battle area (lighting, background, enemy and player), resolving player/enemy actions, and offering notifications for other scripts to poll the state of the battle. Inspired by the combat in _Superbrothers: Sword & Sorcery_, combat happens in real time. To resolve a block, the combat system checks whether the swing happened during the blocks active window. See the Action Component section below.
 
 [Functions & Variables](/assets/img/LD/BP_BattleSystem0_VarsFuncs.PNG){:target="_blank"} -
 [Event Graph Part 2](/assets/img/LD/BP_BattleSystem2_EventGraph2.PNG){:target="_blank"} -
@@ -82,7 +78,7 @@ This is where the meat of the player's interaction with the game takes place. Th
 [![Event Graph](/assets/img/LD/BP_Action1_StartAction.PNG)](/assets/img/LD/BP_Action1_StartAction.PNG){:target="_blank"}
 <div style="display:none;">_</div>
 
-This class drives both player and enemy actions. It provides a simple data driven interface to tweak the length, active window and other such timing properties of an action. Using this component I was able to easily hookup player and enemy actions and their associated effects without copying a lot of code over and over. This little component turned about to be a life saver on the project, and the small amount of investment time I put into creating it paid off well.
+This class drives both player and enemy actions. It provides a simple data driven interface to tweak the length, active window and other such timing properties of an action. Using this component I was able to easily hookup player and enemy actions and their associated effects without copying a lot of code over and over. This little component turned out to be a life saver on the project, and the small amount of investment time I put into creating it paid off well.
 
 [Functions and Variables](/assets/img/LD/BP_Action2_VariableFunctionList.PNG){:target="_blank"} -
 [Start Action](/assets/img/LD/BP_Action1_StartAction.PNG){:target="_blank"} -
@@ -99,7 +95,7 @@ This class drives both player and enemy actions. It provides a simple data drive
 
 **Level Editing and Scripting:**
 
-By the end of the project we had a level filled with static props and other environment art with a general idea of the pathway the player would take through the world. I came in and placed all of the enemy encounters, defined the player level boundaries, scripted all of the narration and music triggers, and tweaked the level's geometry to extend gameplay for narration length and cue the player to their destination.
+By the end of the project we had a level filled with static props and other environment art with a general idea of the pathway the player would take through the world. I came in and placed all of the enemy encounters, defined the player level boundaries, scripted all of the narration and music triggers, and tweaked the level's geometry to extend gameplay for narration length and cue the player to environmental details.
 
 [![Event Graph](/assets/img/LD/LevelScripting1.PNG)](/assets/img/LD/LevelScripting1.PNG){:target="_blank"}
 <div style="display:none;">_</div>
