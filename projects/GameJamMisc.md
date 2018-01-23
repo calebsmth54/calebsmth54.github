@@ -2,11 +2,20 @@
 title: Other Games and Misc Projects
 ---
 
+## Bear Fighting Trainer Simulator
+## (August - September 2017)
+### Game Design Consultant (Design Documentation)
+
+Worked closely with a developer to flesh out design ideas into a comprehensive design document for programmers and designers to develop a bear boxing trainer mobile game.
+
+[![Bear Fighter Preview Image](/assets/img/MiscGames/BearFighterPreview1.PNG)](/assets/img/MiscGames/BearFighterPreview1.PNG){:target="_blank"}
+<div style="display:none;">_</div>
+
 ## Haunted Mansion Generator(WIP)
 ## (2016 to 2017)
 ### Game Programmer (Unreal - C++ - Blueprint Scripting)
 
-A small prototype I did for generating 2d grid maps made up of templated rooms. Very early WIP prototype.
+A small prototype I did for generating 2D grid maps made up of templated rooms. Very early WIP prototype.
 
 [![Haunted Mansion Generator Preview Image](/assets/img/MiscGames/HMGPreview.png)](/assets/img/MiscGames/HMGPreview.png){:target="_blank"}
 <div style="display:none;">_</div>

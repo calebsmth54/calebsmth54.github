@@ -43,7 +43,7 @@ The battle system is easily the most complex script I wrote for the project. It 
 [![Event Graph](/assets/img/LD/Player/BP_Player1.PNG)](/assets/img/LD/Player/BP_Player1.PNG){:target="_blank"}
 <div style="display:none;">_</div>
 
-There's nothing terribly unique here. This character BP uses UE4's default movement components. You will notice that the character has several components (Attack, Block, Heal, Quake). This are inherited from the Action Component script. More on that below.
+You will notice that the character has several components (Attack, Block, Heal, Quake). This are inherited from the Action Component script. More on that below.
 
 [Components](/assets/img/LD/Player/BP_Player2.PNG){:target="_blank"} -
 [Functions](/assets/img/LD/Player/BP_Player3.PNG){:target="_blank"} -
