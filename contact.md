@@ -1,5 +1,5 @@
 ---
-title: Contact
+title:
 ---
 
 **Email:** [calebsmth54@gmail.com](mailto:calebsmth54@gmail.com)
