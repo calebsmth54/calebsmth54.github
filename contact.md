@@ -2,7 +2,7 @@
 title: Contact
 ---
 
-**Email:** [blasted2smithereens@gmail.com](mailto:blasted2smithereens@gmail.com)
+**Email:** [calebsmth54@gmail.com](mailto:calebsmth54@gmail.com)
 
 **LinkedIn:** [/in/calebsmth54](https://www.linkedin.com/in/calebsmth54/)
 
