@@ -35,7 +35,12 @@
 
       <section>
         <div id="title">
-          <h1>{{ page.title | default: site.github.repository_name }}</h1>
+          {% if post.title == "" %}
+            {{ post.content | strip_html | truncatewords:5 }}
+          {% else %}
+            <h1>{{ page.title | default: site.github.repository_name }}</h1>
+          {% endif %}
+
         </div>
 
         {{ content }}
