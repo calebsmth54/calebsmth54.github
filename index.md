@@ -1,5 +1,5 @@
 ---
-Title: ""
+Layout: no-title-post
 ---
 
 

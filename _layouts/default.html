@@ -35,7 +35,7 @@
 
       <section>
         <div id="title">
-          {% if post.title == "" %}
+          {% if post.layout != 'no-title-post' %}
             {{ post.content | strip_html | truncatewords:5 }}
           {% else %}
             <h1>{{ page.title | default: site.github.repository_name }}</h1>
