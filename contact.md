@@ -1,5 +1,5 @@
 ---
-layout: no-title-post
+Title: ""
 ---
 
 **Email:** [calebsmth54@gmail.com](mailto:calebsmth54@gmail.com)
