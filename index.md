@@ -1,5 +1,5 @@
 ---
-title: Portfolio
+Layout: no-title-post
 ---
 
 

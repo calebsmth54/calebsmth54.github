@@ -21,12 +21,11 @@
   <body>
       <div id="header">
         <div id="nameblock">
-          <p><span class="super name">Caleb Smith</span></br><span class="sub name">C++ Programmer &amp; Game Designer </span><p>
+          <p><span class="super name">Caleb Smith</span></br><span class="sub name">Technical Designer</span><p>
         </div>
-        
+
         <nav id="mynav">
-          <li class="header_button"><a href="https://calebsmth54.github.io/">Portfolio</a></li>
-          <li class="header_button"><a href="/resume">Resume</a></li>
+          <li class="header_button"><a href="https://calebsmth54.github.io/">Projects</a></li>
           <li class="header_button"><a href="/contact">Contact</a></li>
           <li class="header_button"><a href="https://github.com/calebsmth54" target="_blank">GitHub</a></li>
         </nav>
@@ -36,15 +35,19 @@
 
       <section>
         <div id="title">
-          <h1>{{ page.title | default: site.github.repository_name }}</h1>
+          {% if post.layout != 'no-title-post' %}
+            {{ post.content | strip_html | truncatewords:5 }}
+          {% else %}
+            <h1>{{ page.title | default: site.github.repository_name }}</h1>
+          {% endif %}
+
         </div>
 
         {{ content }}
 
         <br>
         <br>
-          <span class="credits left">Site maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a> | | </span>
-          <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/michigangraham">mattgraham</a></span>
+          <span class="credits left">Site created by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a> using theme originally created by <a href="https://twitter.com/michigangraham">mattgraham</span>
       </section>
     </div>
 
