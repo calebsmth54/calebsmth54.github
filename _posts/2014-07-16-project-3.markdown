@@ -1,0 +1,16 @@
+---
+layout: default
+modal-id: 3
+date: 2019-01-28
+img: RR.png
+alt: Rose Rock Preview Image
+project-date: 2017 to 2018
+client: Rogue Raven 
+category: Game Designer and Programmer
+description: Worked closely with technical director and creative director to develop game prototypes and promotional content.
+
+---
+
+- Designed and developed prototypes for inventory, player interaction and open world mechanics
+- Consulted on story, providing editorial notes and storytelling direction
+- Championed and produced media for community engagement, such as video Lets Play Series, to promote brand
