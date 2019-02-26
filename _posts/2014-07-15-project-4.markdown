@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Dying of the Light
+title: The Dying of the Light
 modal-id: 4
 date: 2019-01-28
-img: DyingLight.png
-alt: Dying of the Light Preview Image
+img: DotLPreview.png
+alt: The Dying of the Light Preview Image
 project-date: July 2017
 client: Ludum Dare 39
 clientURL: https://ldjam.com/events/ludum-dare/39/the-dying-of-the-light/

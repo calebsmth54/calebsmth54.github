@@ -1,8 +1,9 @@
 ---
 layout: default
+title: Rose Rock
 modal-id: 3
 date: 2019-01-28
-img: RR.png
+img: RRPreview.png
 alt: Rose Rock Preview Image
 project-date: 2017 to 2018
 client: Rogue Raven 

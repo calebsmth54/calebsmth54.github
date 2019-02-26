@@ -2,7 +2,8 @@
 layout: default
 modal-id: 5
 date: 2019-01-28
-img: LnB.png
+title: Lead 'N Brimstone
+img: LnBPreview.png
 alt: Lead 'N Brimstone Preview Image
 project-date: April 2016 to April 2017
 client: Waden Kane Games

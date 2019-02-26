@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Personal Projects
+title: Misc Projects
 modal-id: 6
 date: 2019-01-28
-img: PersonalProjects.png
+img: MiscPreview.png
 alt: Personal Projects Preview Image
 project-date: 2006 to Present
 client: Personal
