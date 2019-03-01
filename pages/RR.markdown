@@ -2,6 +2,7 @@
 layout: default
 title: Rose Rock
 modal-id: 3
+categories: portfolio
 date: 2019-01-28
 img: RRPreview.png
 alt: Rose Rock Preview Image

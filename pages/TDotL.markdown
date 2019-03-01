@@ -2,6 +2,7 @@
 layout: default
 title: The Dying of the Light
 modal-id: 4
+categories: portfolio
 date: 2019-01-28
 img: DotLPreview.png
 alt: The Dying of the Light Preview Image

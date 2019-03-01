@@ -1,6 +1,7 @@
 ---
 layout: default
 modal-id: 5
+categories: portfolio
 date: 2019-01-28
 title: Lead 'N Brimstone
 img: LnBPreview.png
@@ -9,7 +10,7 @@ project-date: April 2016 to April 2017
 client: Waden Kane Games
 clientURL: http://www.wadenkanestudios.com/
 category: Game Programmer
-description: A 2D side-scrolling shooter inspired by _Contra_, _Ghost 'n Goblins_ and _Doom_. Players take control of a knight fighting through a fantasy world being invaded by a demon army.
+description: A 2D side-scrolling shooter inspired by Contra, Ghost 'n Goblins and Doom. Players take control of a knight fighting through a fantasy world being invaded by a demon army.
 
 ---
 
@@ -86,15 +87,3 @@ Used UE4 animation tools and scripts to hook up several enemy characters and the
 
 <iframe src="https://drive.google.com/file/d/1yjPYCPkHi7sypdSA7rYtcmbvT3H-oTai/preview" width="650" height="366" FrameBorder="0"></iframe>
 <div style="display:none;">_</div>
-
-**Teamwork**
-
-Worked with designers on tuning mechanics and turning vision of game into functioning game mechanics.
-
-Worked with artists to import assets into engine, hook them up with gameplay and tweak animations to match gameplay needs.
-
-Assisted with any technical challenge team members encountered.
-
-Helped transition new and old team members from Unity to Unreal.
-
-Managed a Perforce repository for a distributed team of in office and remote personnel.

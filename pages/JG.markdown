@@ -3,6 +3,7 @@ layout: default
 modal-id: 2
 title: Junction Gate
 date: 2019-01-28
+categories: portfolio
 img: JGPreview.png
 alt: Junction Gate Preview Image
 project-date: October 2018 to Present
