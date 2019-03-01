@@ -7,6 +7,12 @@ keywords: "Game Developer, Game Designer, C++, Unreal, UE4, Unity, Game Programm
 skills: "Game Programmer - Game Designer"
 meta_author: Smith Caleb
 
+# Site wide categories to assign to posts/pages
+category-list: [portfolio, services]
+
+# Allows page folder to be accessed like _posts is
+include: ['_pages']
+
 # Google webmaster tools
 google_verify:
 

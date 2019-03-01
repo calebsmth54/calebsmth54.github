@@ -9,17 +9,18 @@
                 </div>
             </div>
             <div class="row">
-                {% for post in site.posts %}
-                    <div class="col-sm-4 portfolio-item">
-                        <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
-                            <div class="caption">
-                                <div class="caption-content">
-                                    {{ post.title }}
-                                </div>
-                            </div>
-                            <img src="img/portfolio/{{ post.img }}" class="img-responsive" alt="{{ post.alt }}">
-                        </a>
-                    </div>
+				{% assign sorted = (site.pages | where_exp: "item", "item.categories contains 'portfolio'" | sort: 'modal-id') %}
+                {% for page in sorted %}
+						<div class="col-sm-4 portfolio-item">
+							<a href="#portfolioModal-{{ page.modal-id }}" class="portfolio-link" data-toggle="modal">
+								<div class="caption">
+									<div class="caption-content">
+										{{ page.title }}
+									</div>
+								</div>
+								<img src="img/modal-thumbnails/{{ page.img }}" class="img-responsive" alt="{{ page.alt }}">
+							</a>
+						</div>
                 {% endfor %}
             </div>
         </div>

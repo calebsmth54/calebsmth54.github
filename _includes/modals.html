@@ -1,6 +1,6 @@
  <!-- Portfolio Modals -->
- {% for post in site.posts %}
-    <div class="portfolio-modal modal fade" id="portfolioModal-{{ post.modal-id }}" tabindex="-1" role="dialog" aria-hidden="true">
+ {% for page in site.pages %}
+    <div class="portfolio-modal modal fade" id="{{ page.categories }}Modal-{{ page.modal-id }}" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
             <div class="close-modal" data-dismiss="modal">
                 <div class="lr">
@@ -12,38 +12,38 @@
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2>{{ post.title }}</h2>
-                            <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
-                            {% if post.description %}
-                                <p>{{ post.description }}</p>
+                            <h2>{{ page.title }}</h2>
+                            <img src="img/modal-thumbnails/{{ page.img }}" class="img-responsive img-centered" alt="{{ page.alt }}">
+                            {% if page.description %}
+                                <p>{{ page.description }}</p>
                             {% endif %}
                             <ul class="list-inline item-details">
-                                {% if post.client %}
+                                {% if page.client %}
                                     <li>
                                         <strong>
-										{% if post.clientURL %}
-											<a target="_blank" href="{{ post.clientURL }}">
+										{% if page.clientURL %}
+											<a target="_blank" href="{{ page.clientURL }}">
 										{% endif %}
-										{{ post.client }}
-										{% if post.clientURL %}
+										{{ page.client }}
+										{% if page.clientURL %}
 											</a>
 										{% endif %}
                                         </strong>
                                     </li>
                                 {% endif %}
-                                {% if post.project-date %}
+                                {% if page.project-date %}
                                     <li>Date:
-                                        <strong>{{ post.project-date }}</strong>
+                                        <strong>{{ page.project-date }}</strong>
                                     </li>
                                 {% endif %}
-                                {% if post.category %}
+                                {% if page.category %}
                                     <li>Role:
-                                        <strong>{{ post.category }}</strong>
+                                        <strong>{{ page.category }}</strong>
                                     </li>
                                 {% endif %}
                             </ul>
 							<br>
-							{{ post.content }}
+							{{ page.content }}
                             <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i>Close</button>
                         </div>
                     </div>
