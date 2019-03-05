@@ -11,7 +11,7 @@ meta_author: Smith Caleb
 category-list: [portfolio, services]
 
 # Allows page folder to be accessed like _posts is
-include: ['_pages']
+include: ['_post/pages']
 
 # Google webmaster tools
 google_verify:

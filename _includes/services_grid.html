@@ -1,0 +1,27 @@
+
+    <!-- Services Grid Section -->
+    <section id="services">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2>Services</h2>
+					</br>
+                </div>
+            </div>
+            <div class="row">
+				{% assign sorted = (site.pages | where_exp: "item", "item.categories contains 'services'" | sort: 'modal-id') %}
+                {% for page in sorted %}
+						<div class="col-sm-4 portfolio-item">
+							<a href="#servicesModal-{{ page.modal-id }}" class="portfolio-link" data-toggle="modal">
+								<div class="caption">
+									<div class="caption-content">
+										{{ page.title }}
+									</div>
+								</div>
+								<img src="img/modal-thumbnails/{{ page.img }}" class="img-responsive" alt="{{ page.alt }}">
+							</a>
+						</div>
+                {% endfor %}
+            </div>
+        </div>
+    </section>

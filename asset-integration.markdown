@@ -1,11 +1,11 @@
 ---
 layout: default
-modal-id: 2
+modal-id: 3
 categories: [services]
-title: Asset Integration
+title: Third Party Asset Inegration
 date: 2019-01-28
-img: CSPreview.png
+img: asset-int-preview.png
 alt: Circuits and Shields
 project-date: October 2018 to Present
-category: Game Designer
+category: Game Programmer
 ---
