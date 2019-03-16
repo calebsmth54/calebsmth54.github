@@ -352,6 +352,7 @@ section.success {
     border: 0;
     border-radius: 0;
     font-size: 1.5em;
+	color: #{{ site.color.primary-text }}!important;
     background: #{{ site.color.secondary }}!important;
     box-shadow: none!important;
     resize: none;
@@ -385,7 +386,7 @@ section.success {
 }
 
 .floating-label-form-group-with-focus label {
-    color: #{{ site.color.secondary }};
+    color: #{{ site.color.primary-text }};
 }
 
 form .row:first-child .floating-label-form-group {

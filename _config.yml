@@ -1,17 +1,14 @@
 # Site settings
-title: Caleb Smith
+title: Master Game Smith
 email: mastergamesmith@gmail.com
 url: https://calebsmth54.github.io/
 description: "Portfolio page for Caleb Smith, a freelance game developer developing in UE4 and Unity; skilled in C++, C# and Blueprints."
 keywords: "Game Developer, Game Designer, C++, Unreal, UE4, Unity, Game Programmer, Video Game, Player"
-skills: "Game Programmer - Game Designer"
+skills: "Game Design and Programming Services"
 meta_author: Smith Caleb
 
 # Site wide categories to assign to posts/pages
 category-list: [portfolio, services]
-
-# Allows page folder to be accessed like _posts is
-include: ['_post/pages']
 
 # Google webmaster tools
 google_verify:
