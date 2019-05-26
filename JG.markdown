@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: 2
+modal-id: 1
 title: Junction Gate
 date: 2019-01-28
 categories: portfolio
