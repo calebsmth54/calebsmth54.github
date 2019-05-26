@@ -62,7 +62,7 @@ The code consists of several parts. The [ABaseAIController](https://github.com/c
 
 The following blueprints are inherited from the BaseEnemy class for our Bull Demon enemy, an enemy that growls when he sees the player and charges in their direction, trampling other enemies in their path.
 
-[![Lead N Brimstone AI Blueprint Preview](/img/LnB/AI_Blueprint0.PNG)](/img/LnB/AI_Blueprint0.PNG){:target="_blank"}
+[![Lead N Brimstone AI Blueprint Preview](/img/LnB/AI_Blueprint0.png)](/img/LnB/AI_Blueprint0.png){:target="_blank"}
 <div style="display:none;">_</div>
 
 [Bull Demon BP Part 2](/img/LnB/AI_Blueprint1.png){:target="_blank"} -
