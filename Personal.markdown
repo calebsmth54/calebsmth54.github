@@ -6,7 +6,7 @@ description: "Various prototypes and game jam projects developed over the years"
 img: PersonalPreview.png
 layout: default
 modal-id: 6
-title: "Misc Projects"
+title: "Personal Projects"
 ---
 
 ### Parkour
