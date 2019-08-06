@@ -49,7 +49,7 @@ AI Characters use UE4's [Perception System](https://docs.unrealengine.com/en-US/
 
 Decreased vertical field of view for enemies. This allows the player to perch just overhead without being seen.
 
-AI has 4 major behavior states (Idle, Investigating, Alert) that determine their broad behavior patterns. Enemies will only be alerted to the player's presence if they remain in their field of view for more than a specified time. This mechanic is largely borrowed from Uncharted 4.
+AI has 3 major behavior states (Idle, Investigating, Alert) that determine their broad behavior patterns. Enemies will only be alerted to the player's presence if they remain in their field of view for more than a specified time. This mechanic is largely borrowed from Uncharted 4.
 
 If players are quick enough, they can kill an alerted enemy before they are able to alert their squadmates.
 
