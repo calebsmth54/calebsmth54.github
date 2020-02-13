@@ -45,14 +45,12 @@ footer:
 social:
   - title: twitter
     url: https://twitter.com/gamemastersmith
-  - title: linkedin
-    url: https://www.linkedin.com/in/calebsmth54/
   - title: github
     url: https://github.com/calebsmth54
 
 # Postal address (add as many lines as necessary)
 address:
-   - line: Tempe, AZ
+   - line: California, USA
    
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
